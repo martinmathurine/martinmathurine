@@ -1,5 +1,5 @@
 💫 About Me:
-🔭 I'm currently working on producing a network log file analyser.<br>🌱 I'm currently learning about network engineering.
+🔭 Computer BNetwork Security BSc graduate. <br>🌱 Aspiring Cyber Security Analyst.
 
 
 ## 🌐 Socials:
