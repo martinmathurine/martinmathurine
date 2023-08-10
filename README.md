@@ -8,6 +8,8 @@
 # 💻 Tech Stack:
 ![CCNA 200-301](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 ![Python3](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=martin199x&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
