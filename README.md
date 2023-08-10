@@ -1,5 +1,5 @@
-💫 About Me:
-🔭 Computer Network Security BSc graduate in 2023. <br>🌱 Aspiring Cyber Security Analyst.
+💫 About Me:<br>
+🔭 Computer Network Security BSc graduate | 2023 <br>🌱 Aspiring Cyber Security Analyst.
 
 
 ## 🌐 Socials:
