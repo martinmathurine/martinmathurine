@@ -1,5 +1,4 @@
 <h1>Hi, I'm Martin!! <br/><a href="https://github.com/martinmathurine">Programmer</a> and <a href="https://www.linkedin.com/in/martinmathurine/">Computer Network Security BSc 2023 Graduate</a></h1>
-<>
 
 <h2>⚡Projects:</h2>
 
