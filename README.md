@@ -1,17 +1,17 @@
 <h1>Hi, I'm Martin!! <br/><a href="https://github.com/martinmathurine">Programmer</a> and <a href="https://www.linkedin.com/in/martinmathurine/">Computer Network Security BSc 2023 Graduate</a></h1>
 
 <h2>⚡Cyber Security Projects:</h2>
-
+<!--
 - <b>Data Structures and Algorithms Practice</b>
   - [PLACEHOLDER - Praciting DS & Algos in Python](https://github.com/martinmathurine/Algorithms-Practice)
 - <b>Full Stack Web App Security</b>
   - [PLACEHOLDER](https://github.com/martinmathurine/Full-Stack-Web-App)
 - <b>PowerShell</b>
-  - PLACEHOLDER 
+  - PLACEHOLDER -->
 - <b>Python</b>
   - [Network Security EVTX Log Analyser](https://github.com/martinmathurine/Network-Security-EVTX-Log-Analyser)
-- <b>C#</b>
-  - PLACEHOLDER
+<!-- - <b>C#</b>
+  - PLACEHOLDER -->
 
 <h2> 🌐 Connect with me:</h2>
 
