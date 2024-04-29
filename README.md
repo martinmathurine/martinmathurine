@@ -1,6 +1,6 @@
 <h1>Hi, I'm Martin!! <br/><a href="https://github.com/martinmathurine">Programmer</a> and <a href="https://www.linkedin.com/in/martinmathurine/">Computer Network Security BSc 2023 Graduate</a></h1>
 
-<h2>⚡Projects:</h2>
+<h2>⚡Cyber Security Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice</b>
   - [PLACEHOLDER - Praciting DS & Algos in Python](https://github.com/martinmathurine/Algorithms-Practice)
