@@ -3,14 +3,14 @@
 <h2>⚡Cyber Security Projects:</h2>
 <!--
 - <b>Data Structures and Algorithms Practice</b>
-  - [PLACEHOLDER - Praciting DS & Algos in Python](https://github.com/martinmathurine/Algorithms-Practice)
+  - [PLACEHOLDER - Practising DS & Algos in Python](https://github.com/martinmathurine/Algorithms-Practice)
 - <b>Full Stack Web App Security</b>
   - [PLACEHOLDER](https://github.com/martinmathurine/Full-Stack-Web-App)
 - <b>PowerShell</b>
   - PLACEHOLDER -->
 <b>Python</b>
 
- • [Network Security EVTX Log Analyser](https://github.com/martinmathurine/Network-Security-EVTX-Log-Analyser)
+ ⚡ [Network Security EVTX Log Analyser](https://github.com/martinmathurine/Network-Security-EVTX-Log-Analyser)
 <!-- - <b>C#</b>
   - PLACEHOLDER -->
 
