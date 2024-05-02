@@ -1,4 +1,4 @@
-<h1>Hi, I'm Martin!! <br/><a href="https://github.com/martinmathurine">Programmer</a> and <a href="https://www.linkedin.com/in/martinmathurine/">Computer Network Security BSc 2023 Graduate</a></h1>
+<h1>Hi, I'm Martin⚡ <br/><a href="https://github.com/martinmathurine">Programmer</a> and <a href="https://www.linkedin.com/in/martinmathurine/">Computer Network Security BSc 2023 Graduate</a></h1>
 
 <h2> ⛈️ Cyber Security Projects:</h2>
 <!--
@@ -10,7 +10,7 @@
   - PLACEHOLDER -->
 <b>Python</b>
 
-⚡[Network Security EVTX Log Analyser](https://github.com/martinmathurine/Network-Security-EVTX-Log-Analyser)
+[Network Security EVTX Log Analyser](https://github.com/martinmathurine/Network-Security-EVTX-Log-Analyser)
 <!-- - <b>C#</b>
   - PLACEHOLDER -->
 
