@@ -1,26 +1,26 @@
 <h1 align="center">Hi 👐🏾, I'm Martin⚡</h1>
 <h3 align="center"><a href="https://www.linkedin.com/in/martinmathurine/">Computer Network Security BSc Graduate</a>, <a href="https://github.com/martinmathurine">IT Professional</h3> <!-- Change this to Cyber Security Professional in time 🤞🏽 -->
 
-<h3>Cyber Security & Software Development Projects:</h3>
+<h3 align="center">Cyber Security & Software Development Projects:</h3>
 
-- <b>Data Structures and Algorithms Practice</b>
-  - [Python DSA Practise](https://github.com/martinmathurine/Python-Practice)
-  - [C++ DSA Practise](https://github.com/martinmathurine/C++-Practice)
+<b>Data Structures and Algorithms Practice</b>
+ - [Python DSA Practise](https://github.com/martinmathurine/Python-Practice)
+ - [C++ DSA Practise](https://github.com/martinmathurine/C++-Practice)
 
-- <b>Full Stack Web App (NodeJS, React, Azure, Generative AI and Machine Learning Components)</b>
-  - [PLACEHOLDER](https://github.com/martinmathurine/Full-Stack-Web-App-1)
-  - [PLACEHOLDER](https://github.com/martinmathurine/Full-Stack-Web-App-2)
-  - [PLACEHOLDER](https://github.com/martinmathurine/Full-Stack-Web-App-3)
-  - [PLACEHOLDER](https://github.com/martinmathurine/Full-Stack-Web-App-4)
-  - [PLACEHOLDER](https://github.com/martinmathurine/Full-Stack-Web-App-5)
+<b>Full Stack Web App (NodeJS, React, Azure, Generative AI and Machine Learning Components)</b>
+ - [PLACEHOLDER](https://github.com/martinmathurine/Full-Stack-Web-App-1)
+ - [PLACEHOLDER](https://github.com/martinmathurine/Full-Stack-Web-App-2)
+ - [PLACEHOLDER](https://github.com/martinmathurine/Full-Stack-Web-App-3)
+ - [PLACEHOLDER](https://github.com/martinmathurine/Full-Stack-Web-App-4)
+ - [PLACEHOLDER](https://github.com/martinmathurine/Full-Stack-Web-App-5)
 
-- <b>PowerShell</b>
-  - [PLACEHOLDER](https://github.com/martinmathurine/PowerShell-1)
-  - [PLACEHOLDER](https://github.com/martinmathurine/PowerShell-2)
-  - [PLACEHOLDER](https://github.com/martinmathurine/PowerShell-3)
+<b>PowerShell</b>
+- [PLACEHOLDER](https://github.com/martinmathurine/PowerShell-1)
+- [PLACEHOLDER](https://github.com/martinmathurine/PowerShell-2)
+- [PLACEHOLDER](https://github.com/martinmathurine/PowerShell-3)
  
-- <b>Python</b> 
-  - [Network Security EVTX Log Analyser Application](https://github.com/martinmathurine/Network-Security-EVTX-Log-Analyser)
+<b>Python</b> 
+- [Network Security EVTX Log Analyser Application](https://github.com/martinmathurine/Network-Security-EVTX-Log-Analyser)
 
 <!-- <b>C++</b>
 
