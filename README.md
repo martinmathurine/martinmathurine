@@ -1,4 +1,5 @@
-<h1>Hi 👐🏾, I'm Martin⚡ <br/><a href="https://www.linkedin.com/in/martinmathurine/">Computer Network Security BSc Graduate</a> and <a href="https://github.com/martinmathurine">IT Professional</a></h1>
+<h1 align="center">Hi 👐🏾, I'm Martin⚡</h1>
+<h3 align="center"><a href="https://www.linkedin.com/in/martinmathurine/">Computer Network Security BSc Graduate</a> and <a href="https://github.com/martinmathurine">IT Professional</h3> <!-- Change this to Cyber Security Professional in time 🤞🏽 -->
 
 <h2>Cyber Security & Software Development Projects:</h2>
 
