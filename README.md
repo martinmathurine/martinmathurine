@@ -6,13 +6,20 @@
   - [Practising DS & Algos in Python](https://github.com/martinmathurine/Python-Practice)
   - [Practising DS & Algos in C++](https://github.com/martinmathurine/C++-Practice)
 
-<!-- 
-- <b>Full Stack Web App Security</b>
-  - [PLACEHOLDER](https://github.com/martinmathurine/Full-Stack-Web-App)
+- <b>Full Stack Web App</b>
+  - [PLACEHOLDER](https://github.com/martinmathurine/Full-Stack-Web-App-1)
+  - [PLACEHOLDER](https://github.com/martinmathurine/Full-Stack-Web-App-2)
+  - [PLACEHOLDER](https://github.com/martinmathurine/Full-Stack-Web-App-3)
+  - [PLACEHOLDER](https://github.com/martinmathurine/Full-Stack-Web-App-4)
+  - [PLACEHOLDER](https://github.com/martinmathurine/Full-Stack-Web-App-5)
+
 - <b>PowerShell</b>
-  - PLACEHOLDER -->
+  - [PLACEHOLDER](https://github.com/martinmathurine/PowerShell-1)
+  - [PLACEHOLDER](https://github.com/martinmathurine/PowerShell-2)
+  - [PLACEHOLDER](https://github.com/martinmathurine/PowerShell-3)
+ 
 - <b>Python</b> 
-  - [Network Security EVTX Log Analyser](https://github.com/martinmathurine/Network-Security-EVTX-Log-Analyser)
+  - [Network Security EVTX Log Analyser Application](https://github.com/martinmathurine/Network-Security-EVTX-Log-Analyser)
 
 <!-- <b>C++</b>
 
