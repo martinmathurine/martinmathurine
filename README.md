@@ -4,13 +4,13 @@
 <h3>Cyber Security & Software Development Projects:</h3>
 
 <b>Data Structures and Algorithms Practice</b>
- - [Python DSA Practise - TBA PLACEHOLDER ⛈️](https://github.com/martinmathurine/Python-Practice)
- - [C++ DSA Practise - TBA PLACEHOLDER ⛈️](https://github.com/martinmathurine/C++-Practice)
- - [Java DSA Practise - TBA PLACEHOLDER ⛈️](https://github.com/martinmathurine/Java-Practice)
+ - [Python DSA Practise - PLACEHOLDER ⛈️](https://github.com/martinmathurine/Python-Practice)
+ - [C++ DSA Practise - PLACEHOLDER ⛈️](https://github.com/martinmathurine/C++-Practice)
+ - [Java DSA Practise - PLACEHOLDER ⛈️](https://github.com/martinmathurine/Java-Practice)
 
 <b>Full Stack Web App (NodeJS, React, Azure, WordPress, Generative AI, LLM and Machine Learning Components)</b>
- - [TBA PLACEHOLDER ⛈️](https://github.com/martinmathurine/Full-Stack-Web-App-1)
- - [TBA PLACEHOLDER ⛈️](https://github.com/martinmathurine/Full-Stack-Web-App-2)
+ - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Full-Stack-Web-App-1)
+ - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Full-Stack-Web-App-2)
  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Full-Stack-Web-App-3)
  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Full-Stack-Web-App-4)
  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Full-Stack-Web-App-5)
