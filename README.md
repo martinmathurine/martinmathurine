@@ -6,6 +6,7 @@
 <b>Data Structures and Algorithms Practice</b>
  - [Python DSA Practise](https://github.com/martinmathurine/Python-Practice)
  - [C++ DSA Practise](https://github.com/martinmathurine/C++-Practice)
+ - [Java DSA Practise](https://github.com/martinmathurine/Java-Practice)
 
 <b>Full Stack Web App (NodeJS, React, Azure, Generative AI, LLM and Machine Learning Components)</b>
  - [PLACEHOLDER](https://github.com/martinmathurine/Full-Stack-Web-App-1)
@@ -21,12 +22,16 @@
  
 <b>Python</b> 
 - [Network Security EVTX Log Analyser Application](https://github.com/martinmathurine/Network-Security-EVTX-Log-Analyser)
+ - [PLACEHOLDER](https://github.com/martinmathurine/Full-Stack-Web-App-2)
+ - [PLACEHOLDER](https://github.com/martinmathurine/Full-Stack-Web-App-3)
+ - [PLACEHOLDER](https://github.com/martinmathurine/Full-Stack-Web-App-4)
+ - [PLACEHOLDER](https://github.com/martinmathurine/Full-Stack-Web-App-5)
 
-<!-- <b>C++</b>
-
-[Network Security EVTX Log Analyser](https://github.com/martinmathurine/Network-Security-EVTX-Log-Analyser)
+<b>C++</b>
+ - [PLACEHOLDER](https://github.com/martinmathurine/C++-1)
   
-  - PLACEHOLDER -->
+<b>Java</b>
+ - [PLACEHOLDER](https://github.com/martinmathurine/Java-1)
 
 <h3>Let's Connect:</h3>
 
