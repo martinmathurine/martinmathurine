@@ -7,7 +7,7 @@
  - [Python DSA Practise](https://github.com/martinmathurine/Python-Practice)
  - [C++ DSA Practise](https://github.com/martinmathurine/C++-Practice)
 
-<b>Full Stack Web App (NodeJS, React, Azure, Generative AI and Machine Learning Components)</b>
+<b>Full Stack Web App (NodeJS, React, Azure, Generative AI, LLM and Machine Learning Components)</b>
  - [PLACEHOLDER](https://github.com/martinmathurine/Full-Stack-Web-App-1)
  - [PLACEHOLDER](https://github.com/martinmathurine/Full-Stack-Web-App-2)
  - [PLACEHOLDER](https://github.com/martinmathurine/Full-Stack-Web-App-3)
