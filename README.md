@@ -1,4 +1,4 @@
-<h1>Hi 👐🏾, I'm Martin⚡ <br/><a href="https://www.linkedin.com/in/martinmathurine/">Computer Network Security BSc Graduate</a> and <a href="https://github.com/martinmathurine">IT Professional Exploring Cyber Security</a></h1>
+<h1>Hi 👐🏾, I'm Martin⚡ <br/><a href="https://www.linkedin.com/in/martinmathurine/">Computer Network Security BSc Graduate</a> and <a href="https://github.com/martinmathurine">IT Professional</a></h1>
 
 <h2>Cyber Security & Software Development Projects:</h2>
 
