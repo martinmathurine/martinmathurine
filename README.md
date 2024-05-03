@@ -8,7 +8,7 @@
  - [C++ DSA Practise - TBA PLACEHOLDER ⛈️](https://github.com/martinmathurine/C++-Practice)
  - [Java DSA Practise - TBA PLACEHOLDER ⛈️](https://github.com/martinmathurine/Java-Practice)
 
-<b>Full Stack Web App (NodeJS, React, Azure, Generative AI, LLM and Machine Learning Components)</b>
+<b>Full Stack Web App (NodeJS, React, Azure, WordPress, Generative AI, LLM and Machine Learning Components)</b>
  - [TBA PLACEHOLDER ⛈️](https://github.com/martinmathurine/Full-Stack-Web-App-1)
  - [TBA PLACEHOLDER ⛈️](https://github.com/martinmathurine/Full-Stack-Web-App-2)
  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Full-Stack-Web-App-3)
