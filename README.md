@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👐🏾, I'm Martin⚡</h1>
 <h3 align="center"><a href="https://www.linkedin.com/in/martinmathurine/">Computer Network Security BSc Graduate</a>, <a href="https://github.com/martinmathurine">IT Professional</h3> <!-- Change this to Cyber Security Professional in time 🤞🏽 -->
 
-<h2>Cyber Security & Software Development Projects:</h2>
+<h3>Cyber Security & Software Development Projects:</h3>
 
 - <b>Data Structures and Algorithms Practice</b>
   - [Python DSA Practise](https://github.com/martinmathurine/Python-Practice)
