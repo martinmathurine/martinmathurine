@@ -1,12 +1,12 @@
-<h1>Hi, I'm Martin⚡ <br/><a href="https://github.com/martinmathurine">IT Professional</a> and <a href="https://www.linkedin.com/in/martinmathurine/">Computer Network Security BSc Graduate</a></h1>
+<h1>Hi 👐🏾, I'm Martin⚡ <br/><a href="https://github.com/martinmathurine">IT Professional exploring cyber security and generative AI </a> and <a href="https://www.linkedin.com/in/martinmathurine/">Computer Network Security BSc Graduate</a></h1>
 
 <h2>⚡ Cyber Security & Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice</b>
-  - [Practising DS & Algos in Python](https://github.com/martinmathurine/Python-Practice)
-  - [Practising DS & Algos in C++](https://github.com/martinmathurine/C++-Practice)
+  - [Python DSA Practise](https://github.com/martinmathurine/Python-Practice)
+  - [C++ DSA Practise](https://github.com/martinmathurine/C++-Practice)
 
-- <b>Full Stack Web App</b>
+- <b>Full Stack Web App (NodeJS, React, Azure, Generative AI and Machine Learning Components)</b>
   - [PLACEHOLDER](https://github.com/martinmathurine/Full-Stack-Web-App-1)
   - [PLACEHOLDER](https://github.com/martinmathurine/Full-Stack-Web-App-2)
   - [PLACEHOLDER](https://github.com/martinmathurine/Full-Stack-Web-App-3)
