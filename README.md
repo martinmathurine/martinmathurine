@@ -28,7 +28,7 @@
   
   - PLACEHOLDER -->
 
-<h3> 🌐 Let's Connect:</h3>
+<h3>Let's Connect: 🌐</h3>
 
 <!-- [<img align="left" alt="MartinMathurine | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
