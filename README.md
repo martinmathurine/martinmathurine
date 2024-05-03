@@ -4,9 +4,9 @@
 <h3>Cyber Security & Software Development Projects:</h3>
 
 <b>Data Structures and Algorithms Practice</b>
- - [Python DSA Practise - PLACEHOLDER ⛈️](https://github.com/martinmathurine/Python-Practice)
- - [C++ DSA Practise - PLACEHOLDER ⛈️](https://github.com/martinmathurine/C++-Practice)
- - [Java DSA Practise - PLACEHOLDER ⛈️](https://github.com/martinmathurine/Java-Practice)
+ - [DSA Practise Python - PLACEHOLDER ⛈️](https://github.com/martinmathurine/Python-Practice)
+ - [DSA Practise C++ - PLACEHOLDER ⛈️](https://github.com/martinmathurine/C++-Practice)
+ - [DSA Practise Java - PLACEHOLDER ⛈️](https://github.com/martinmathurine/Java-Practice)
 
 <b>Full Stack Web App (NodeJS, React, Azure, WordPress, Generative AI, LLM and Machine Learning Components)</b>
  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Full-Stack-Web-App-1)
