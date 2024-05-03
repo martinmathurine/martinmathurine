@@ -3,6 +3,7 @@
 <h2>⛈️ Cyber Security & Software Development Projects:</h2>
 
 <b>Data Structures and Algorithms Practice</b>
+
   [Practising DS & Algos in Python](https://github.com/martinmathurine/Python-Practice)
   [Practising DS & Algos in C++](https://github.com/martinmathurine/C++-Practice)
 
@@ -12,6 +13,7 @@
 - <b>PowerShell</b>
   - PLACEHOLDER -->
 <b>Python</b> 
+
   [Network Security EVTX Log Analyser](https://github.com/martinmathurine/Network-Security-EVTX-Log-Analyser)
 
 <!-- <b>C++</b>
