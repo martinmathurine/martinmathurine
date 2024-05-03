@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👐🏾, I'm Martin⚡</h1>
 <h2 align="center"><a href="https://www.linkedin.com/in/martinmathurine/">Computer Network Security BSc Graduate</a>, <a href="https://github.com/martinmathurine">IT Professional</h2> <!-- Change this to Cyber Security Professional in time 🤞🏽 -->
 
-<h3>Cyber Security & Software Development Projects:</h3>
+<h3>Home Labs & Software Development Projects:</h3>
 
-<b>Defensive Cyber Security Home Labs</b>
+<b>Defensive Cyber Security Homelab</b>
  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Security-1)
  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Security-2)
  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Security-3)
 
-<b>Computer Networking Home Labs</b>
+<b>Computer Networking Homelab</b>
  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Networking-1)
- - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Networking-2)
+ - [PLACEHOLDER ⛈️](https://githu.com/martinmathurine/Networking-2)
  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Networking-3)
 
 <b>Data Structures & Algorithms Practice</b>
@@ -31,7 +31,7 @@
 - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/PowerShell-3)
  
 <b>Python</b> 
-- [Network Security EVTX Log Analyser Application](https://github.com/martinmathurine/Network-Security-EVTX-Log-Analyser)
+ - [Network Security EVTX Log Analyser Application](https://github.com/martinmathurine/Network-Security-EVTX-Log-Analyser)
  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Python-2)
  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Python-3)
  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Python-4)
