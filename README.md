@@ -2,11 +2,9 @@
 
 <h2>⛈️ Cyber Security & Software Development Projects:</h2>
 
-<b>Data Structures and Algorithms Practice</b>
-
-  [Practising DS & Algos in Python](https://github.com/martinmathurine/Python-Practice)
-  
-  [Practising DS & Algos in C++](https://github.com/martinmathurine/C++-Practice)
+- <b>Data Structures and Algorithms Practice</b>
+  - [Practising DS & Algos in Python](https://github.com/martinmathurine/Python-Practice)
+  - [Practising DS & Algos in C++](https://github.com/martinmathurine/C++-Practice)
 
 <!-- 
 - <b>Full Stack Web App Security</b>
