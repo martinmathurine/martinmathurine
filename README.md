@@ -14,9 +14,9 @@
  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Networking-3)
 
 <b>Data Structures & Algorithms Study Repository</b>
- - [DSA Python Practise- PLACEHOLDER ⛈️](https://github.com/martinmathurine/Python-Practice)
- - [DSA C++ Practise- PLACEHOLDER ⛈️](https://github.com/martinmathurine/C++-Practice)
- - [DSA Java Practise- PLACEHOLDER ⛈️](https://github.com/martinmathurine/Java-Practice)
+ - [DSA Python Practise - PLACEHOLDER ⛈️](https://github.com/martinmathurine/Python-Practice)
+ - [DSA C++ Practise - PLACEHOLDER ⛈️](https://github.com/martinmathurine/C++-Practice)
+ - [DSA Java Practise - PLACEHOLDER ⛈️](https://github.com/martinmathurine/Java-Practice)
 
 <b>Full Stack Web App (NodeJS, React, Azure, WordPress, Generative AI, LLM and Machine Learning Components)</b>
  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Full-Stack-Web-App-1)
