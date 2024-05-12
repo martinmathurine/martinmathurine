@@ -3,6 +3,11 @@
 
 <h3>Home Labs & Software Development Projects:</h3>
 
+<b>Data Structures & Algorithms Study Repository</b>
+ - [DSA Python Practise - PLACEHOLDER ⛈️](https://github.com/martinmathurine/Python-Practice)
+ - [DSA C++ Practise - PLACEHOLDER ⛈️](https://github.com/martinmathurine/C++-Practice)
+ - [DSA Java Practise - PLACEHOLDER ⛈️](https://github.com/martinmathurine/Java-Practice)
+
 <b>Defensive Cyber Security Homelabs</b>
  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Security-1)
  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Security-2)
@@ -12,11 +17,6 @@
  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Networking-1)
  - [PLACEHOLDER ⛈️](https://githu.com/martinmathurine/Networking-2)
  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Networking-3)
-
-<b>Data Structures & Algorithms Study Repository</b>
- - [DSA Python Practise - PLACEHOLDER ⛈️](https://github.com/martinmathurine/Python-Practice)
- - [DSA C++ Practise - PLACEHOLDER ⛈️](https://github.com/martinmathurine/C++-Practice)
- - [DSA Java Practise - PLACEHOLDER ⛈️](https://github.com/martinmathurine/Java-Practice)
 
 <b>Full Stack Web App (NodeJS, React, Azure, WordPress, Generative AI, LLM and Machine Learning Components)</b>
  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Full-Stack-Web-App-1)
