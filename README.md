@@ -44,7 +44,7 @@
  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Java-1)
 
 <b>SQL</b>
- - [Store Database](https://github.com/martinmathurine/Java-1)
+ - [Store Database](https://github.com/martinmathurine/SQL-Store-Database)
 
 <h3>Let's Connect:</h3>
 
