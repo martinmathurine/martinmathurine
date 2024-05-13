@@ -41,7 +41,7 @@
  - [Student Grades Histogram](https://github.com/martinmathurine/Grades-Histogram)
   
 <b>Java</b>
- - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Java-1)
+ - [Video Store GUI](https://github.com/martinmathurine/Video-Store-GUI)
 
 <h3>Let's Connect:</h3>
 
