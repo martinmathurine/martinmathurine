@@ -9,7 +9,7 @@
  - [DSA Java Practise](https://github.com/martinmathurine/Java-Practice)
 
 <b>Defensive Cyber Security Homelabs</b>
- - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Security-1)
+ - [Cryptography Decryption CyberChef Lab](https://github.com/martinmathurine/Cryptography-Decryption-CyberChef-Lab)
  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Security-2)
  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Security-3)
 
