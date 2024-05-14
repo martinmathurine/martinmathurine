@@ -2,16 +2,19 @@
 <h2 align="center"><a href="https://www.linkedin.com/in/martinmathurine/">Computer Network Security BSc Graduate</a>, <a href="https://github.com/martinmathurine">IT Professional</h2> <!-- Change this to Cyber Security Professional in time 🤞🏽 -->
 
 <h3>Home Labs & Software Development Projects:</h3>
-
 <b>Data Structures & Algorithms Study Repository</b>
  - [DSA Python Practise](https://github.com/martinmathurine/Python-Practice)
  - [DSA C++ Practise](https://github.com/martinmathurine/CPlusPlus-Practice)
  - [DSA Java Practise](https://github.com/martinmathurine/Java-Practice)
 
-<b>Defensive Cyber Security Homelabs</b>
- - [Cryptography Decryption CyberChef Lab](https://github.com/martinmathurine/Cryptography-Decryption-CyberChef-Lab) 
-<!--  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Security-2)
+<!-- <b>Defensive Cyber Security Homelabs</b>
+
+ - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Security-2)
  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Security-3) -->
+
+<b>Application Security</b>
+ - [Secure Password Manager](https://github.com/martinmathurine/Secure-Password-Manager)
+ - [Cryptography Decryption CyberChef Lab](https://github.com/martinmathurine/Cryptography-Decryption-CyberChef-Lab) 
 <!--  
 <b>Computer Network Homelabs</b>
  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Networking-1)
