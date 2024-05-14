@@ -8,14 +8,13 @@
  - [DSA C++ Practise](https://github.com/martinmathurine/CPlusPlus-Practice)
  - [DSA Java Practise](https://github.com/martinmathurine/Java-Practice)
 
-<!-- <b>Defensive Cyber Security Homelabs</b>
-
- - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Security-2)
+<b>Defensive Cyber Security Homelabs</b>
+ - [Cryptography Decryption CyberChef Lab](https://github.com/martinmathurine/Cryptography-Decryption-CyberChef-Lab) 
+<!--   - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Security-2)
  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Security-3) -->
 
-<b>Application Security</b>
- - [Secure Password Manager](https://github.com/martinmathurine/Secure-Password-Manager)
- - [Cryptography Decryption CyberChef Lab](https://github.com/martinmathurine/Cryptography-Decryption-CyberChef-Lab) 
+
+
 <!--  
 <b>Computer Network Homelabs</b>
  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Networking-1)
@@ -45,6 +44,7 @@
  - [Student Grades Histogram](https://github.com/martinmathurine/Grades-Histogram)
   
 <b>Java</b>
+ - [Secure Password Manager](https://github.com/martinmathurine/Secure-Password-Manager)
  - [Video Store GUI](https://github.com/martinmathurine/Video-Store-GUI)
 
 <h3>Let's Connect:</h3>
