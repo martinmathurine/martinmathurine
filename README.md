@@ -34,7 +34,7 @@
 - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/PowerShell-3) -->
  
 <b>Python</b> 
- - [Network Security EVTX Log Analyser](https://github.com/martinmathurine/Network-Security-EVTX-Log-Analyser)
+ - [Windows Event Log Analyser](https://github.com/martinmathurine/Windows-Event-Log-Analyser)
 <!--  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Python-2)
  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Python-3)
  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Python-4)
