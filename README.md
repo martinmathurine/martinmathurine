@@ -5,18 +5,18 @@
 
 - <b>Data Structures & Algorithms Study Repository</b>
   - [**DSA Python Practise**](https://github.com/martinmathurine/Python-Practice)
-  - [DSA C++ Practise](https://github.com/martinmathurine/CPlusPlus-Practice)
-  - [DSA Java Practise](https://github.com/martinmathurine/Java-Practice)
+  - [**DSA C++ Practise**](https://github.com/martinmathurine/CPlusPlus-Practice)
+  - [**DSA Java Practise**](https://github.com/martinmathurine/Java-Practice)
 - <b>Cyber Security Homelabs</b>
-  - [CyberChef Cryptography Lab](https://github.com/martinmathurine/Cryptography-Decryption-CyberChef-Lab)
-  - [Security Audit Lab](https://github.com/martinmathurine/Security-Audit) (Nessus | Vulnerability Assessment | Remediation | Technical Reporting)
-  - [Website Security Lab](https://github.com/martinmathurine/Website-Security) (Kali Linux | Nmap | Hydra | Burp Suite | Vulnerability Scanning | Penetration Testing)
+  - [**CyberChef Cryptography Lab**](https://github.com/martinmathurine/Cryptography-Decryption-CyberChef-Lab)
+  - [**Security Audit Lab**](https://github.com/martinmathurine/Security-Audit) (Nessus | Vulnerability Assessment | Remediation | Technical Reporting)
+  - [**Website Security Lab**](https://github.com/martinmathurine/Website-Security) (Kali Linux | Nmap | Hydra | Burp Suite | Vulnerability Scanning | Penetration Testing)
 - <b>Python</b> 
-  - [Windows Event Log Analyser](https://github.com/martinmathurine/Windows-Event-Log-Analyser) (Python | Regex | Automation | EVTX Log Parsing | Log Analytics)
+  - [**Windows Event Log Analyser**](https://github.com/martinmathurine/Windows-Event-Log-Analyser) (Python | Regex | Automation | EVTX Log Parsing | Log Analytics)
 - <b>Java</b>
-  - [Secure Password Manager](https://github.com/martinmathurine/Secure-Password-Manager) (Java | IAM | Encryption | Decryption | SHA-256 Hashing | Application Security)
+  - [**Secure Password Manager**](https://github.com/martinmathurine/Secure-Password-Manager) (Java | IAM | Encryption | Decryption | SHA-256 Hashing | Application Security)
 - <b>Computer Networking with Cisco Packet Tracer Homelabs</b>
-  - [LAN 3-Tier Architecture](https://github.com/martinmathurine/LAN-3-Tier-Architecture)
+  - [**LAN 3-Tier Architecture**](https://github.com/martinmathurine/LAN-3-Tier-Architecture)
   <!--  - <b>Full Stack Web Applications (NodeJS, React, Azure, WordPress, Generative AI, LLM and Machine Learning Components)</b>
   - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Full-Stack-Web-App-1) -->
 <!-- - <b>PowerShell</b>
