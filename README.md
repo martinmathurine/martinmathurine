@@ -8,7 +8,7 @@
   - [DSA C++ Practise](https://github.com/martinmathurine/CPlusPlus-Practice)
   - [DSA Java Practise](https://github.com/martinmathurine/Java-Practice)
 - <b>Cyber Security Homelabs</b>
-  - [Cryptography CyberChef Lab](https://github.com/martinmathurine/Cryptography-Decryption-CyberChef-Lab)
+  - [CyberChef Cryptography Lab](https://github.com/martinmathurine/Cryptography-Decryption-CyberChef-Lab)
   - [Nessus Vulnerability Assessment Lab](https://github.com/martinmathurine/Nessus-Lab)
   - [Kali Linux x Burp Suite Penetration Testing Lab](https://github.com/martinmathurine/Kali-Burp-Pen-Test-Lab)
 - <b>Python</b> 
