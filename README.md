@@ -15,7 +15,7 @@
   - [Secure Password Manager](https://github.com/martinmathurine/Secure-Password-Manager)
 <!-- - <b>Computer Network Homelabs</b>
   - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Networking-1) -->
-  <!--  - <b>Full Stack Web App (NodeJS, React, Azure, WordPress, Generative AI, LLM and Machine Learning Components)</b>
+  <!--  - <b>Full Stack Web Applications (NodeJS, React, Azure, WordPress, Generative AI, LLM and Machine Learning Components)</b>
   - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Full-Stack-Web-App-1) -->
 <!-- - <b>PowerShell</b>
   - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/PowerShell-1) -->
