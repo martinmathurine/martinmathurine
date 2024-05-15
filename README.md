@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👐🏾, I'm Martin⚡</h1>
 <h2 align="center"><a href="https://www.linkedin.com/in/martinmathurine/">Computer Network Security BSc Graduate and IT Professional</a> | <a href="https://github.com/martinmathurine"> Cyber Security Enthusiast</h2> <!-- Change this to Cyber Security Professional in time 🤞🏽 -->
   
-<h3>Home Labs & Software Development Projects:</h3>
+<h3>Homelabs & Software Development Projects:</h3>
 
 - <b>Data Structures & Algorithms Study Repository</b>
   - [**DSA Python Practise**](https://github.com/martinmathurine/Python-Practice)
@@ -15,7 +15,7 @@
   - [**Windows Event Log Analyser**](https://github.com/martinmathurine/Windows-Event-Log-Analyser) (Python | Regex | Automation | EVTX Log Parsing | Log Analytics)
 - <b>Java</b>
   - [**Secure Password Manager**](https://github.com/martinmathurine/Secure-Password-Manager) (Java | IAM | Encryption | Decryption | SHA-256 Hashing | Application Security)
-- <b>Computer Networking with Cisco Packet Tracer Homelabs</b>
+- <b>Computer Networking Cisco Packet Tracer Homelabs</b>
   - [**LAN 3-Tier Architecture**](https://github.com/martinmathurine/LAN-3-Tier-Architecture)
   <!--  - <b>Full Stack Web Applications (NodeJS, React, Azure, WordPress, Generative AI, LLM and Machine Learning Components)</b>
   - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Full-Stack-Web-App-1) -->
