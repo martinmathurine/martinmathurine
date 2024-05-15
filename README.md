@@ -4,9 +4,9 @@
 <h3>Home Labs & Software Development Projects:</h3>
 
 - <b>Data Structures & Algorithms Study Repository</b>
- - [DSA Python Practise](https://github.com/martinmathurine/Python-Practice)
- - [DSA C++ Practise](https://github.com/martinmathurine/CPlusPlus-Practice)
- - [DSA Java Practise](https://github.com/martinmathurine/Java-Practice)
+  - [DSA Python Practise](https://github.com/martinmathurine/Python-Practice)
+  - [DSA C++ Practise](https://github.com/martinmathurine/CPlusPlus-Practice)
+  - [DSA Java Practise](https://github.com/martinmathurine/Java-Practice)
 
 - <b>Defensive Cyber Security Homelabs</b>
  - [Cryptography Decryption CyberChef Lab](https://github.com/martinmathurine/Cryptography-Decryption-CyberChef-Lab) 
