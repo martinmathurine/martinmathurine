@@ -37,12 +37,14 @@
 - <b>Java</b>
   - [Secure Password Manager](https://github.com/martinmathurine/Secure-Password-Manager)
   - [Video Store GUI](https://github.com/martinmathurine/Video-Store-GUI)
+  
 <h3>Let's Connect:</h3>
 <!-- [<img align="left" alt="MartinMathurine | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [linkedin]: https://linkedin.com/in/martinmathurine -->
 <p align="left">
 <a href="https://linkedin.com/in/martinmathurine" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aavila0707" height="30" width="40" /></a>
 </p>
+  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
