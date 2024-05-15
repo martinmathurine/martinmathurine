@@ -1,20 +1,14 @@
 <h1 align="center">Hi 👐🏾, I'm Martin⚡</h1>
 <h2 align="center"><a href="https://www.linkedin.com/in/martinmathurine/">Computer Network Security BSc Graduate</a>, <a href="https://github.com/martinmathurine">IT Professional</h2> <!-- Change this to Cyber Security Professional in time 🤞🏽 -->
-
 <h3>Home Labs & Software Development Projects:</h3>
-
 - <b>Data Structures & Algorithms Study Repository</b>
   - [DSA Python Practise](https://github.com/martinmathurine/Python-Practice)
   - [DSA C++ Practise](https://github.com/martinmathurine/CPlusPlus-Practice)
   - [DSA Java Practise](https://github.com/martinmathurine/Java-Practice)
-
 - <b>Defensive Cyber Security Homelabs</b>
   - [Cryptography Decryption CyberChef Lab](https://github.com/martinmathurine/Cryptography-Decryption-CyberChef-Lab) 
 <!--   - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Security-2)
  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Security-3) -->
-
-
-
 <!--  
 <b>Computer Network Homelabs</b>
  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Networking-1)
@@ -32,31 +26,23 @@
 - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/PowerShell-1)
 - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/PowerShell-2)
 - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/PowerShell-3) -->
- 
 - <b>Python</b> 
- - [Windows Event Log Analyser](https://github.com/martinmathurine/Windows-Event-Log-Analyser)
+  - [Windows Event Log Analyser](https://github.com/martinmathurine/Windows-Event-Log-Analyser)
 <!--  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Python-2)
  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Python-3)
  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Python-4)
  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Python-5) -->
-
 - <b>C++</b>
   - [Student Grades Histogram](https://github.com/martinmathurine/Grades-Histogram)
-  
 - <b>Java</b>
   - [Secure Password Manager](https://github.com/martinmathurine/Secure-Password-Manager)
   - [Video Store GUI](https://github.com/martinmathurine/Video-Store-GUI)
-
 <h3>Let's Connect:</h3>
-
 <!-- [<img align="left" alt="MartinMathurine | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 [linkedin]: https://linkedin.com/in/martinmathurine -->
-
 <p align="left">
 <a href="https://linkedin.com/in/martinmathurine" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aavila0707" height="30" width="40" /></a>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
