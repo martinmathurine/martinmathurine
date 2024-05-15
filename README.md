@@ -11,8 +11,6 @@
   - [Cryptography Decryption CyberChef Lab](https://github.com/martinmathurine/Cryptography-Decryption-CyberChef-Lab) 
 - <b>Python</b> 
   - [Windows Event Log Analyser](https://github.com/martinmathurine/Windows-Event-Log-Analyser)
-- <b>C++</b>
-  - [Student Grades Histogram](https://github.com/martinmathurine/Grades-Histogram)
 - <b>Java</b>
   - [Secure Password Manager](https://github.com/martinmathurine/Secure-Password-Manager)
 <!-- - <b>Computer Network Homelabs</b>
