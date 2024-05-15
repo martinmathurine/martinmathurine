@@ -3,13 +3,13 @@
 
 <h3>Home Labs & Software Development Projects:</h3>
 
- - <b>Data Structures & Algorithms Study Repository</b>
-  - [DSA Python Practise](https://github.com/martinmathurine/Python-Practice)
-  - [DSA C++ Practise](https://github.com/martinmathurine/CPlusPlus-Practice)
-  - [DSA Java Practise](https://github.com/martinmathurine/Java-Practice)
+- <b>Data Structures & Algorithms Study Repository</b>
+ - [DSA Python Practise](https://github.com/martinmathurine/Python-Practice)
+ - [DSA C++ Practise](https://github.com/martinmathurine/CPlusPlus-Practice)
+ - [DSA Java Practise](https://github.com/martinmathurine/Java-Practice)
 
- - <b>Defensive Cyber Security Homelabs</b>
-  - [Cryptography Decryption CyberChef Lab](https://github.com/martinmathurine/Cryptography-Decryption-CyberChef-Lab) 
+- <b>Defensive Cyber Security Homelabs</b>
+ - [Cryptography Decryption CyberChef Lab](https://github.com/martinmathurine/Cryptography-Decryption-CyberChef-Lab) 
 <!--   - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Security-2)
  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Security-3) -->
 
@@ -33,19 +33,19 @@
 - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/PowerShell-2)
 - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/PowerShell-3) -->
  
- - <b>Python</b> 
-  - [Windows Event Log Analyser](https://github.com/martinmathurine/Windows-Event-Log-Analyser)
+- <b>Python</b> 
+ - [Windows Event Log Analyser](https://github.com/martinmathurine/Windows-Event-Log-Analyser)
 <!--  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Python-2)
  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Python-3)
  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Python-4)
  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Python-5) -->
 
- - <b>C++</b>
-  - [Student Grades Histogram](https://github.com/martinmathurine/Grades-Histogram)
+- <b>C++</b>
+ - [Student Grades Histogram](https://github.com/martinmathurine/Grades-Histogram)
   
- - <b>Java</b>
-  - [Secure Password Manager](https://github.com/martinmathurine/Secure-Password-Manager)
-  - [Video Store GUI](https://github.com/martinmathurine/Video-Store-GUI)
+- <b>Java</b>
+ - [Secure Password Manager](https://github.com/martinmathurine/Secure-Password-Manager)
+ - [Video Store GUI](https://github.com/martinmathurine/Video-Store-GUI)
 
 <h3>Let's Connect:</h3>
 
