@@ -7,14 +7,16 @@
   - [DSA Python Practise](https://github.com/martinmathurine/Python-Practice)
   - [DSA C++ Practise](https://github.com/martinmathurine/CPlusPlus-Practice)
   - [DSA Java Practise](https://github.com/martinmathurine/Java-Practice)
-- <b>Defensive Cyber Security Homelabs</b>
-  - [Cryptography Decryption CyberChef Lab](https://github.com/martinmathurine/Cryptography-Decryption-CyberChef-Lab) 
+- <b>Cyber Security Homelabs</b>
+  - [Cryptography CyberChef Lab](https://github.com/martinmathurine/Cryptography-Decryption-CyberChef-Lab)
+  - [Nessus Vulnerability Assessment Lab)](https://github.com/martinmathurine/Nessus-Lab)
+  - [Kali Linux x Burp Suite Penetration Testing Lab](https://github.com/martinmathurine/Kali-Burp-Pen-Test-Lab) (Kali Linux, Nmap, Hydra, PowerShell and Burp Suite)
 - <b>Python</b> 
   - [Windows Event Log Analyser](https://github.com/martinmathurine/Windows-Event-Log-Analyser)
 - <b>Java</b>
   - [Secure Password Manager](https://github.com/martinmathurine/Secure-Password-Manager)
-<!-- - <b>Computer Network Homelabs</b>
-  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Networking-1) -->
+- <b>Computer Networking with Cisco Packet Tracer Homelabs</b>
+  - [LAN 3-Tier Architecture](https://github.com/martinmathurine/LAN-3-Tier-Architecture)
   <!--  - <b>Full Stack Web Applications (NodeJS, React, Azure, WordPress, Generative AI, LLM and Machine Learning Components)</b>
   - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Full-Stack-Web-App-1) -->
 <!-- - <b>PowerShell</b>
