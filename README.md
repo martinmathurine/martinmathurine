@@ -7,39 +7,18 @@
   - [DSA Python Practise](https://github.com/martinmathurine/Python-Practice)
   - [DSA C++ Practise](https://github.com/martinmathurine/CPlusPlus-Practice)
   - [DSA Java Practise](https://github.com/martinmathurine/Java-Practice)
-  
 - <b>Defensive Cyber Security Homelabs</b>
   - [Cryptography Decryption CyberChef Lab](https://github.com/martinmathurine/Cryptography-Decryption-CyberChef-Lab) 
-<!--   - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Security-2)
- - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Security-3) -->
-<!--  
 <b>Computer Network Homelabs</b>
- - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Networking-1)
- - [PLACEHOLDER ⛈️](https://githu.com/martinmathurine/Networking-2)
- - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Networking-3) -->
-<!--  
+ - [PLACEHOLDER](https://github.com/martinmathurine/Networking-1)
 <b>Full Stack Web App (NodeJS, React, Azure, WordPress, Generative AI, LLM and Machine Learning Components)</b>
  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Full-Stack-Web-App-1)
- - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Full-Stack-Web-App-2)
- - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Full-Stack-Web-App-3)
- - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Full-Stack-Web-App-4)
- - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Full-Stack-Web-App-5) -->
-<!--  
 <b>PowerShell</b>
 - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/PowerShell-1)
-- [PLACEHOLDER ⛈️](https://github.com/martinmathurine/PowerShell-2)
-- [PLACEHOLDER ⛈️](https://github.com/martinmathurine/PowerShell-3) -->
-
 - <b>Python</b> 
   - [Windows Event Log Analyser](https://github.com/martinmathurine/Windows-Event-Log-Analyser)
-<!--  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Python-2)
- - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Python-3)
- - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Python-4)
- - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Python-5) -->
- 
 - <b>C++</b>
   - [Student Grades Histogram](https://github.com/martinmathurine/Grades-Histogram)
-    
 - <b>Java</b>
   - [Secure Password Manager](https://github.com/martinmathurine/Secure-Password-Manager)
   - [Video Store GUI](https://github.com/martinmathurine/Video-Store-GUI)
