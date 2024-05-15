@@ -2,7 +2,6 @@
 <h2 align="center"><a href="https://www.linkedin.com/in/martinmathurine/">Computer Network Security BSc Graduate</a>, <a href="https://github.com/martinmathurine">IT Professional</h2> <!-- Change this to Cyber Security Professional in time 🤞🏽 -->
   
 <h3>Home Labs & Software Development Projects:</h3>
-
 - <b>Data Structures & Algorithms Study Repository</b>
   - [DSA Python Practise](https://github.com/martinmathurine/Python-Practice)
   - [DSA C++ Practise](https://github.com/martinmathurine/CPlusPlus-Practice)
@@ -21,7 +20,6 @@
   - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/PowerShell-1) -->
   
 <h3>Let's Connect:</h3>
-
 <!-- [<img align="left" alt="MartinMathurine | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [linkedin]: https://linkedin.com/in/martinmathurine -->
 <p align="left">
