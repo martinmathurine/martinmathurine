@@ -9,8 +9,8 @@
   - [DSA Java Practise](https://github.com/martinmathurine/Java-Practice)
 - <b>Cyber Security Homelabs</b>
   - [CyberChef Cryptography Lab](https://github.com/martinmathurine/Cryptography-Decryption-CyberChef-Lab)
-  - [Nessus Vulnerability Assessment Lab](https://github.com/martinmathurine/Nessus-Lab)
-  - [Kali Linux x Burp Suite Penetration Testing Lab](https://github.com/martinmathurine/Kali-Burp-Pen-Test-Lab)
+  - [Nessus Vulnerability Assessment Lab](https://github.com/martinmathurine/Nessus)
+  - [Kali Linux and Burp Suite Penetration Testing Lab](https://github.com/martinmathurine/Kali-Linux-Burp-Suite)
 - <b>Python</b> 
   - [Windows Event Log Analyser](https://github.com/martinmathurine/Windows-Event-Log-Analyser)
 - <b>Java</b>
