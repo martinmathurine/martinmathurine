@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👐🏾, I'm Martin⚡</h1>
-<h2 align="center"><a href="https://www.linkedin.com/in/martinmathurine/">Computer Network Security BSc Graduate</a>, <a href="https://github.com/martinmathurine">IT Professional</h2> <!-- Change this to Cyber Security Professional in time 🤞🏽 -->
+<h2 align="center"><a href="https://www.linkedin.com/in/martinmathurine/">Computer Network Security BSc Graduate</a> | <a href="https://github.com/martinmathurine">IT Professional</h2> <!-- Change this to Cyber Security Professional in time 🤞🏽 -->
   
 <h3>Home Labs & Software Development Projects:</h3>
 
@@ -9,8 +9,8 @@
   - [DSA Java Practise](https://github.com/martinmathurine/Java-Practice)
 - <b>Cyber Security Homelabs</b>
   - [CyberChef Cryptography Lab](https://github.com/martinmathurine/Cryptography-Decryption-CyberChef-Lab)
-  - [Nessus Vulnerability Assessment Lab](https://github.com/martinmathurine/Nessus)
-  - [Kali Linux and Burp Suite Penetration Testing Lab](https://github.com/martinmathurine/Kali-Linux-Burp-Suite)
+  - [Nessus Lab](https://github.com/martinmathurine/Nessus) (Vulnerability Assessment)
+  - [Kali Linux and Burp Suite Lab](https://github.com/martinmathurine/Kali-Linux-Burp-Suite) (Vulnerability Scanning | Penetration Testing)
 - <b>Python</b> 
   - [Windows Event Log Analyser](https://github.com/martinmathurine/Windows-Event-Log-Analyser)
 - <b>Java</b>
