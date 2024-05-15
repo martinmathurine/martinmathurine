@@ -9,19 +9,18 @@
   - [DSA Java Practise](https://github.com/martinmathurine/Java-Practice)
 - <b>Defensive Cyber Security Homelabs</b>
   - [Cryptography Decryption CyberChef Lab](https://github.com/martinmathurine/Cryptography-Decryption-CyberChef-Lab) 
-<!-- - <b>Computer Network Homelabs</b>
-  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Networking-1) -->
-  <!--  - <b>Full Stack Web App (NodeJS, React, Azure, WordPress, Generative AI, LLM and Machine Learning Components)</b>
-  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Full-Stack-Web-App-1) -->
-<!-- - <b>PowerShell</b>
-  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/PowerShell-1) -->
 - <b>Python</b> 
   - [Windows Event Log Analyser](https://github.com/martinmathurine/Windows-Event-Log-Analyser)
 - <b>C++</b>
   - [Student Grades Histogram](https://github.com/martinmathurine/Grades-Histogram)
 - <b>Java</b>
   - [Secure Password Manager](https://github.com/martinmathurine/Secure-Password-Manager)
-  - [Video Store GUI](https://github.com/martinmathurine/Video-Store-GUI)
+<!-- - <b>Computer Network Homelabs</b>
+  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Networking-1) -->
+  <!--  - <b>Full Stack Web App (NodeJS, React, Azure, WordPress, Generative AI, LLM and Machine Learning Components)</b>
+  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Full-Stack-Web-App-1) -->
+<!-- - <b>PowerShell</b>
+  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/PowerShell-1) -->
   
 <h3>Let's Connect:</h3>
 
