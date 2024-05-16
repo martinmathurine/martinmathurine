@@ -8,9 +8,9 @@
   - [**DSA C++ Practise**](https://github.com/martinmathurine/CPlusPlus-Practice)
   - [**DSA Java Practise**](https://github.com/martinmathurine/Java-Practice)
 - <b>Cyber Security Homelabs</b>
-  - [**CyberChef Cryptography Lab**](https://github.com/martinmathurine/Cryptography-Decryption-CyberChef-Lab)
   - [**Security Audit Lab**](https://github.com/martinmathurine/Security-Audit) (Nessus | Vulnerability Assessment | Remediation | Technical Reporting)
   - [**Website Security Lab**](https://github.com/martinmathurine/Website-Security) (Kali Linux | Nmap | Hydra | Burp Suite | Vulnerability Scanning | Penetration Testing)
+  - [**CyberChef Cryptography Lab**](https://github.com/martinmathurine/Cryptography-Decryption-CyberChef-Lab)
 - <b>Computer Networking Homelabs</b>
   - [**LAN 3-Tier Architecture**](https://github.com/martinmathurine/LAN-3-Tier-Architecture)
 - <b>Python</b> 
