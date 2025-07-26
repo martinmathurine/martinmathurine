@@ -45,7 +45,7 @@
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/512/azure-1.png" alt="Microsoft Azure" width="40" height="40"/> </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/512/console.png" alt="Bash" width="40" height="40"/> </a>
   <a href="https://wordpress.org" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" alt="wordpress" width="40" height="40"/> </a>
-  <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/512/virtualbox.png" alt="VirtualBox" width="40" height="40"/> </a>
+  <!--  <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/512/virtualbox.png" alt="VirtualBox" width="40" height="40"/> </a> -->
   <a href="https://www.vmware.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/512/vmware.png" alt="VMware" width="40" height="40"/> </a>
   <a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/512/mac-os.png" alt="macOS" width="40" height="40"/> </a>  
   <a href="https://www.tenable.com/products/nessus" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios/452/biohazard.png" alt="Nessus Tenable" width="40" height="40"/> </a>
