@@ -9,7 +9,7 @@
   - [**DSA C++ Practise**](https://github.com/martinmathurine/CPlusPlus-Practice)
 - <b>Cyber Security Homelabs</b>
   - [**Nessus Essentials Vulnerability Management Life Cycle Lab**](https://github.com/martinmathurine/Security-Audit) (Nmap | VAPT | CVE | CVSS Scoring | Technical Reporting)
-  - [**Website Pen Testing Lab**](https://github.com/martinmathurine/Website-Security) (Kali Linux | Nmap | Hydra | Burp Suite | Vulnerability Scanning | Penetration Testing)
+  - [**Website Pen Testing Lab**](https://github.com/martinmathurine/Website-Security) (Bash | Kali Linux | Nmap | Hydra | Burp Suite | Exploitation | SQL Injection | Technical Reporting)
   - [**Cryptography Lab**](https://github.com/martinmathurine/Cryptography-Decryption-CyberChef-Lab) (CyberChef | Decryption | Encryption)
 - <b>Computer Networking Homelabs</b>
   - [**LAN 3-Tier Architecture**](https://github.com/martinmathurine/LAN-3-Tier-Architecture)
