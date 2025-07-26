@@ -11,11 +11,10 @@
   - [**Nessus Essentials Vulnerability Management Life Cycle Lab**](https://github.com/martinmathurine/Security-Audit) (Nmap | VAPT | CVE | CVSS Scoring | Technical Reporting)
   - [**Website Pen Testing Lab**](https://github.com/martinmathurine/Website-Security) (Bash | Kali Linux | Nmap | Hydra | Burp Suite | Exploitation | SQL Injection | Technical Reporting)
   - [**Cryptography Lab**](https://github.com/martinmathurine/Cryptography-Decryption-CyberChef-Lab) (CyberChef | Decryption | Encryption)
-- <b>Computer Networking Homelabs</b>
+- <b>Cisco Networking Labs</b>
   - [**LAN 3-Tier Architecture**](https://github.com/martinmathurine/LAN-3-Tier-Architecture)
-- <b>Python</b> 
+- <b>Scripting</b> 
   - [**Windows Event Log Analyser**](https://github.com/martinmathurine/Windows-Event-Log-Analyser) (Python | Regex | Automation | EVTX Log Parsing | Log Analytics)
-- <b>Java</b>
   - [**Secure Password Manager**](https://github.com/martinmathurine/Secure-Password-Manager) (Java | IAM | Encryption | Decryption | SHA-256 Hashing | Application Security)
   <!--  - <b>Full Stack Web Applications (NodeJS, React, Azure, WordPress, Generative AI, LLM and Machine Learning Components)</b>
   - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Full-Stack-Web-App-1) -->
