@@ -7,7 +7,7 @@
   - [**DSA Python Practise**](https://github.com/martinmathurine/Python-Practice)
   - [**DSA Java Practise**](https://github.com/martinmathurine/Java-Practice)
   - [**DSA C++ Practise**](https://github.com/martinmathurine/CPlusPlus-Practice)
-- <b>Cyber Security Homelabs</b>
+- <b>Cyber Security Labs</b>
   - [**Nessus Essentials Vulnerability Management Life Cycle Lab**](https://github.com/martinmathurine/Security-Audit) (Nmap | VAPT | CVE | CVSS Scoring | Technical Reporting)
   - [**Website Pen Testing Lab**](https://github.com/martinmathurine/Website-Security) (Bash | Kali Linux | Nmap | Hydra | Burp Suite | Exploitation | SQL Injection | Technical Reporting)
   - [**Cryptography Lab**](https://github.com/martinmathurine/Cryptography-Decryption-CyberChef-Lab) (CyberChef | Decryption | Encryption)
