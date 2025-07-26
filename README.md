@@ -3,7 +3,7 @@
   
 <h3>Projects:</h3>
 
-- <b>Data Structures & Algorithms Study Repository</b>
+- <b>Data Structures & Algorithms (DSA) Study Repository</b>
   - [**DSA Python Practise**](https://github.com/martinmathurine/Python-Practice)
   - [**DSA Java Practise**](https://github.com/martinmathurine/Java-Practice)
   - [**DSA C++ Practise**](https://github.com/martinmathurine/CPlusPlus-Practice)
