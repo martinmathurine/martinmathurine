@@ -3,10 +3,6 @@
   
 <h3>Projects:</h3>
 
-- <b>Data Structures & Algorithms (DSA) Study Repository</b>
-  - [**DSA Python Practise**](https://github.com/martinmathurine/Python-Practice)
-  - [**DSA Java Practise**](https://github.com/martinmathurine/Java-Practice)
-  - [**DSA C++ Practise**](https://github.com/martinmathurine/CPlusPlus-Practice)
 - <b>Cyber Security Labs</b>
   - [**Nessus Essentials Vulnerability Management Life Cycle Lab**](https://github.com/martinmathurine/Security-Audit) (Vulnerability Management | Technical Reporting)
   - [**Nessus Essentials Enterprise VAPT Lab**](https://github.com/martinmathurine/Website-Security) (VAPT | CVE | CVSS Scoring | Kali Linux | SQL Injection | Penetration Testing)
@@ -16,6 +12,10 @@
 - <b>Scripting</b> 
   - [**Windows Event Log Analyser**](https://github.com/martinmathurine/Windows-Event-Log-Analyser) (Python | Regex | Automation | EVTX Log Parsing | Log Analytics)
   - [**Secure Password Manager**](https://github.com/martinmathurine/Secure-Password-Manager) (Java | IAM | Encryption | Decryption | SHA-256 Hashing | Application Security)
+- <b>Data Structures & Algorithms (DSA) Study Repository</b>
+  - [**DSA Python Practise**](https://github.com/martinmathurine/Python-Practice)
+  - [**DSA Java Practise**](https://github.com/martinmathurine/Java-Practice)
+  - [**DSA C++ Practise**](https://github.com/martinmathurine/CPlusPlus-Practice)
   <!--  - <b>Full Stack Web Applications (NodeJS, React, Azure, WordPress, Generative AI, LLM and Machine Learning Components)</b>
   - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Full-Stack-Web-App-1) -->
 <!-- - <b>PowerShell</b>
