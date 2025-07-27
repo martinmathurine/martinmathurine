@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👐🏾, I'm Martin⚡</h1>
-<h2 align="center"><a href="https://www.linkedin.com/in/martinmathurine/">BSc Graduate | IT, and Cyber Security Professional</a> </h2> <!-- Change this to Cyber Security Professional in time 🤞🏽 -->
+<h2 align="center"><a href="https://www.linkedin.com/in/martinmathurine/">Cyber Security Professional | BSc Graduate</a> </h2> <!-- Change this to Cyber Security Professional in time 🤞🏽 -->
   
 <h3>Projects:</h3>
 
