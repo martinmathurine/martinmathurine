@@ -8,8 +8,8 @@
   - [**DSA Java Practise**](https://github.com/martinmathurine/Java-Practice)
   - [**DSA C++ Practise**](https://github.com/martinmathurine/CPlusPlus-Practice)
 - <b>Cyber Security Labs</b>
-  - [**Nessus Essentials Vulnerability Management Life Cycle Lab**](https://github.com/martinmathurine/Security-Audit) (Nmap | VAPT | CVE | CVSS Scoring | Technical Reporting)
-  - [**Website Pen Testing Lab**](https://github.com/martinmathurine/Website-Security) (Bash | Kali Linux | Nmap | Hydra | Burp Suite | Exploitation | SQL Injection | Technical Reporting)
+  - [**Nessus Essentials Vulnerability Management Life Cycle Lab**](https://github.com/martinmathurine/Security-Audit) (Vulnerability Management | Technical Reporting)
+  - [**Nessus Essentials Enterprise VAPT Lab**](https://github.com/martinmathurine/Website-Security) (VAPT | CVE | CVSS Scoring | Kali Linux | SQL Injection | Penetration Testing)
   - [**Cryptography Lab**](https://github.com/martinmathurine/Cryptography-Decryption-CyberChef-Lab) (CyberChef | Decryption | Encryption)
 - <b>Cisco Networking Labs</b>
   - [**LAN 3-Tier Architecture**](https://github.com/martinmathurine/LAN-3-Tier-Architecture)
