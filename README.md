@@ -27,7 +27,7 @@
 <!-- - <b>PowerShell</b>
   - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/PowerShell-1) -->
 
-<h3>Let's Connect:</h3>
+<h3>LinkedIn:</h3>
   <a href="https://linkedin.com/in/martinmathurine" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/512/linkedin.png" alt="martinmathurine" width="40" height="40"/> </a>
 
 <h3 align="left">Languages and Tools:</h3>
