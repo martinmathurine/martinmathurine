@@ -10,7 +10,7 @@
 <h3>Projects:</h3>
 
 - <b>Cyber Security Labs</b>
-  - [**Network Security Lab**](https://github.com/martinmathurine/Network-Security) (pfSense | Suricata | Cowrie | Wazuh | Kali Linux | Ubuntu Server | VMware Workstation Pro 17 | Threat Hunting | Log Analysis | SIEM | IDS/IPS)
+  - [**Network Security Lab**](https://github.com/martinmathurine/Network-Security) (pfSense | Suricata | Cowrie | Wazuh | Kali Linux | Ubuntu Server | VMware Workstation Pro 17)
   - [**Nessus Essentials Vulnerability Management Life Cycle Lab**](https://github.com/martinmathurine/Security-Audit) (Vulnerability Management | Technical Reporting)
   - [**Nessus Essentials Enterprise VAPT Lab**](https://github.com/martinmathurine/Website-Security) (VAPT | CVE | CVSS Scoring | Kali Linux | SQL Injection | Penetration Testing)
   - [**Cryptography Lab**](https://github.com/martinmathurine/Cryptography-Decryption-CyberChef-Lab) (CyberChef | Decryption | Encryption)
