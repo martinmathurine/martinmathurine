@@ -10,14 +10,14 @@
 <h3>Projects:</h3>
 
 - <b>Cyber Security Labs</b>
-  - [**Network Security Lab**](https://github.com/martinmathurine/Network-Security) (pfSense | Suricata | Cowrie | Wazuh | Kali Linux | Ubuntu Server | VMware Workstation Pro 17)
+  - [**Network Security Lab**](https://github.com/martinmathurine/Network-Security) (pfSense | Suricata | Cowrie | Wazuh | Kali Linux | Ubuntu Server | Threat Hunting)
   - [**Nessus Essentials Vulnerability Management Life Cycle Lab**](https://github.com/martinmathurine/Security-Audit) (Vulnerability Management | Technical Reporting)
   - [**Nessus Essentials Enterprise VAPT Lab**](https://github.com/martinmathurine/Website-Security) (VAPT | CVE | CVSS Scoring | Kali Linux | SQL Injection | Penetration Testing)
   - [**Cryptography Lab**](https://github.com/martinmathurine/Cryptography-Decryption-CyberChef-Lab) (CyberChef | Decryption | Encryption)
 - <b>Cisco Networking Labs</b>
   - [**LAN 3-Tier Campus Enterprise Architecture**](https://github.com/martinmathurine/LAN-3-Tier-Architecture)
 - <b>Scripting</b> 
-  - [**Windows Event Log Analyser**](https://github.com/martinmathurine/Windows-Event-Log-Analyser) (Python | Regex | Automation | EVTX Log Parsing | Log Analytics)
+  - [**Windows Event Log Analyser**](https://github.com/martinmathurine/Windows-Event-Log-Analyser) (Python | Regex | Automation | EVTX Log Parsing | Log Analysis)
   - [**Secure Password Manager**](https://github.com/martinmathurine/Secure-Password-Manager) (Java | IAM | Encryption | Decryption | SHA-256 Hashing | Application Security)
 - <b>Data Structures & Algorithms (DSA) Study Repository</b>
   - [**DSA Python Practise**](https://github.com/martinmathurine/Python-Practice)
