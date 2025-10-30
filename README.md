@@ -10,12 +10,14 @@
 <h3>Projects:</h3>
 
 - <b>Cyber Security Labs</b>
-  - [**Enterprise Network Security Lab**](https://github.com/martinmathurine/Network-Security) (pfSense | Suricata | Cowrie | Wazuh | Kali Linux | Ubuntu Server | Threat Hunting | IDS)
-  - [**Nessus Essentials Vulnerability Management Life Cycle Lab**](https://github.com/martinmathurine/Security-Audit) (Information Security Internal Audit | Technical Reporting)
-  - [**Website Security VAPT Lab**](https://github.com/martinmathurine/Website-Security) (VAPT | CVE | CVSS Scoring | Kali Linux | SQL Injection | Penetration Testing)
+  - [**Network Security Lab**](https://github.com/martinmathurine/Network-Security) (SIEM | IDS | Firewall | Router | Honeypot | DDoS | Ransomware | FIM | Wazuh | Suricata | pfSense | Cowrie)
+  - [**Vulnerability Management Lab**](https://github.com/martinmathurine/Security-Audit) (Nessus Essentials | Internal Security Audit | Full Life Cycle | Technical Reporting)
+  - [**Website Security VAPT Lab**](https://github.com/martinmathurine/Website-Security) (VAPT | Penetration Testing | CVE | CVSS Scoring | Kali Linux | SQL Injection)
   - [**Cryptography Lab**](https://github.com/martinmathurine/Cryptography-Decryption-CyberChef-Lab) (CyberChef | Decryption | Encryption)
 - <b>Cisco Networking Labs</b>
   - [**LAN 3-Tier Campus Enterprise Architecture**](https://github.com/martinmathurine/LAN-3-Tier-Architecture)
+- <b>Identity & Access Management (IAM)</b>
+  - [**IAM SSO B2B Lab**](https://www.udemy.com/certificate/UC-66d289b4-b18a-4921-a274-b8f71730a494/) (Okta | M365 | | Entra ID | SSO | Zero Trust | Federation | MFA | IAM | IAG | IAAA | PAM) 
 - <b>Scripting</b> 
   - [**Windows Event Log Analyser**](https://github.com/martinmathurine/Windows-Event-Log-Analyser) (Python | Regex | Automation | EVTX Log Parsing | Log Analysis)
   - [**Secure Password Manager**](https://github.com/martinmathurine/Secure-Password-Manager) (Java | IAM | Encryption | Decryption | SHA-256 Hashing | Application Security)
