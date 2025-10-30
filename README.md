@@ -2,6 +2,7 @@
 <h2 align="center"><a href="https://www.linkedin.com/in/martinmathurine/">Cyber Security Professional | BSc Graduate</a> </h2> <!-- Change this to Cyber Security Professional in time 🤞🏽 -->
 
 <h3>Accomplishments</h3>
+
 - <b>TryHackMe Practical Training</b>
   - [**TryHackMe Security Engineer Certificate**](https://tryhackme.com/certificate/THM-LRAPAKTJWS)
   - [**TryHackMe DevSecOps Certificate**](https://tryhackme.com/certificate/THM-V2OGMXQ3ST)
@@ -11,6 +12,7 @@
   - [**Getting Started with Okta Certificate**](https://www.udemy.com/certificate/UC-66d289b4-b18a-4921-a274-b8f71730a494/)
  
 <h3>Projects:</h3>
+
 - <b>Cyber Security Labs</b>
   - [**Network Security Lab**](https://github.com/martinmathurine/Network-Security) (SIEM | IDS | Firewall | Router | Honeypot | DDoS | Ransomware | FIM | Wazuh | Suricata | pfSense | Cowrie)
   - [**Vulnerability Management Lab**](https://github.com/martinmathurine/Security-Audit) (Nessus Essentials | Internal Security Audit | Full Life Cycle | Technical Reporting)
