@@ -7,7 +7,7 @@
   - [**TryHackMe Security Engineer Certificate**](https://tryhackme.com/certificate/THM-LRAPAKTJWS)
   - [**TryHackMe DevSecOps Certificate**](https://tryhackme.com/certificate/THM-V2OGMXQ3ST)
  
- - <b>Microsoft Certifications </b>
+- <b>Microsoft Certifications </b>
   - [**Microsoft Applied Skills: Get started with identities and access using Microsoft Entra Certificate**](https://learn.microsoft.com/api/credentials/share/en-us/martinmathurine/C62E4D1CE20E9A6E?sharingId=36A65952B8F9D44)
 
 - <b>Udemy Practical Training</b>
