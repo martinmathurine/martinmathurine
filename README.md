@@ -6,10 +6,8 @@
 - <b>TryHackMe Practical Training</b>
   - [**TryHackMe Security Engineer Certificate**](https://tryhackme.com/certificate/THM-LRAPAKTJWS)
   - [**TryHackMe DevSecOps Certificate**](https://tryhackme.com/certificate/THM-V2OGMXQ3ST)
- 
 - <b>Microsoft Certifications </b>
   - [**Microsoft Applied Skills: Get started with identities and access using Microsoft Entra Certificate**](https://learn.microsoft.com/api/credentials/share/en-us/martinmathurine/C62E4D1CE20E9A6E?sharingId=36A65952B8F9D44)
-
 - <b>Udemy Practical Training</b>
   - [**Getting Started with Okta Certificate**](https://www.udemy.com/certificate/UC-66d289b4-b18a-4921-a274-b8f71730a494/)
  
