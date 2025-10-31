@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👐🏾, I'm Martin⚡</h1>
 <h2 align="center"><a href="https://www.linkedin.com/in/martinmathurine/">Cyber Security Professional | BSc Graduate</a> </h2> <!-- Change this to Cyber Security Professional in time 🤞🏽 -->
 
-<h3>Accomplishments</h3>
+<h3>Accomplishments:</h3>
 
 - <b>TryHackMe</b>
   - [**TryHackMe Security Engineer Certificate**](https://tryhackme.com/certificate/THM-LRAPAKTJWS)
