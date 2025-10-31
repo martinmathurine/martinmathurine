@@ -10,7 +10,7 @@
   - [**Cryptography Lab**](https://github.com/martinmathurine/Cryptography-Decryption-CyberChef-Lab) (CyberChef | Decryption | Encryption)
 - <b>Cisco Networking Labs</b>
   - [**3-Tier Meraki Campus LAN**](https://github.com/martinmathurine/LAN-3-Tier-Architecture)
-- <b>Identity & Access Management (IAM) Labs)</b>
+- <b>Identity & Access Management (IAM) Labs</b>
   - [**IAM SSO B2B Lab**](https://www.udemy.com/certificate/UC-66d289b4-b18a-4921-a274-b8f71730a494/) (Okta | M365 | Entra ID | SSO | Zero Trust | Federation | MFA | IAM | IAG | IAAA | PAM) 
 - <b>Scripting</b> 
   - [**Windows Event Log Analyser (Final Year Project)**](https://github.com/martinmathurine/Windows-Event-Log-Analyser) (Python | Log Analysis | EVTX Log Parsing | Automation | Regex)
