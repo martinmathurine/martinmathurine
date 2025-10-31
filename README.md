@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👐🏾, I'm Martin⚡</h1>
+<h1 align="center">Hi👐🏾, I'm Martin⚡</h1>
 <h2 align="center"><a href="https://www.linkedin.com/in/martinmathurine/">Cyber Security Professional | BSc Graduate</a> </h2> <!-- Change this to Cyber Security Professional in time 🤞🏽 -->
   
 <h3>Projects:</h3>
@@ -40,6 +40,7 @@
 - <b>Udemy</b>
   - [**Getting Started with Okta Badge**](https://www.udemy.com/certificate/UC-66d289b4-b18a-4921-a274-b8f71730a494/)
 
+
 <h3>LinkedIn:</h3>
   <a href="https://linkedin.com/in/martinmathurine" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/512/linkedin.png" alt="martinmathurine" width="40" height="40"/> </a>
 
@@ -58,18 +59,18 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> -->
 
   <a href="https://www.tenable.com/products/nessus" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios/452/biohazard.png" alt="Nessus Tenable" width="40" height="40"/> </a>
+  <a href="https://www.splunk.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/452/splunk.png" alt="Splunk" width="40" height="40"/> </a>
   <a href="https://www.microsoft.com/en-us/windows/windows-11" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/512/windows-11.png" alt="Windows 11" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/linux.png" alt="Linux" width="40" height="40"/> </a>
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/kali-linux.png" alt="Kali Linux" width="40" height="40"/> </a>
   <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/512/powershell.png" alt="PowerShell" width="40" height="40"/> </a>
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/512/azure-1.png" alt="Microsoft Azure" width="40" height="40"/> </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/512/console.png" alt="Bash" width="40" height="40"/> </a>
-  <a href="https://wordpress.org" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" alt="wordpress" width="40" height="40"/> </a>
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/512/azure-1.png" alt="Microsoft Azure" width="40" height="40"/> </a>
   <a href="https://www.vmware.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/512/vmware.png" alt="VMware" width="40" height="40"/> </a>
   <a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/512/mac-os.png" alt="macOS" width="40" height="40"/> </a> 
-  <a href="https://www.splunk.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/452/splunk.png" alt="Splunk" width="40" height="40"/> </a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/452/pycharm.png" alt="PyCharm" width="40" height="40"/> </a>
-    <!--  <a href="https://www.jetbrains.com/phpstorm/" target="_blank" rel="noreferrer"> <img src="https://github.com/martinmathurine/martinmathurine/assets/42855193/3206dff3-7cec-49a8-aaf3-0960fafe21e9" alt="PHPStorm" width="40" height="40"/> </a> -->
+  <a href="https://wordpress.org" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" alt="wordpress" width="40" height="40"/> </a>
+  <!--  <a href="https://www.jetbrains.com/phpstorm/" target="_blank" rel="noreferrer"> <img src="https://github.com/martinmathurine/martinmathurine/assets/42855193/3206dff3-7cec-49a8-aaf3-0960fafe21e9" alt="PHPStorm" width="40" height="40"/> </a> -->
 
   <!--  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
