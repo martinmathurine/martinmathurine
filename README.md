@@ -1,21 +1,5 @@
 <h1 align="center">Hi 👐🏾, I'm Martin⚡</h1>
 <h2 align="center"><a href="https://www.linkedin.com/in/martinmathurine/">Cyber Security Professional | BSc Graduate</a> </h2> <!-- Change this to Cyber Security Professional in time 🤞🏽 -->
-
-<h3>Accomplishments:</h3>
-
-- <b>TryHackMe</b>
-  - [**TryHackMe Security Engineer Certificate**](https://tryhackme.com/certificate/THM-LRAPAKTJWS)
-  - [**TryHackMe DevSecOps Certificate**](https://tryhackme.com/certificate/THM-V2OGMXQ3ST)
-- <b>Google</b>
-  - [**Google Cloud Security Command Center (SCC) Fundamentals Badge**](https://www.skills.google/public_profiles/d82daff5-39e1-4d97-b30d-69895d8ca9ad/badges/16361629?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
-- <b>AttackIQ</b>
-  - [**Foundations of Operationalizing MITRE ATT&CK v13 Badge**](https://www.credly.com/badges/2d82c453-02cb-4841-a2b1-7283ebcf94ae/linked_in_profile)
-- <b>Pluralsight</b>
-  - [**Log File Analysis with Python Badge**](https://app.pluralsight.com/achievements/share/847fd9b1-ee44-45bf-be5d-67d7a2e551d5)
-- <b>Microsoft</b>
-  - [**Microsoft Applied Skills: Get started with identities and access using Microsoft Entra Badge**](https://learn.microsoft.com/api/credentials/share/en-us/martinmathurine/C62E4D1CE20E9A6E?sharingId=36A65952B8F9D44)
-- <b>Udemy</b>
-  - [**Getting Started with Okta Badge**](https://www.udemy.com/certificate/UC-66d289b4-b18a-4921-a274-b8f71730a494/)
   
 <h3>Projects:</h3>
 
@@ -39,6 +23,22 @@
   - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Full-Stack-Web-App-1) -->
 <!-- - <b>PowerShell</b>
   - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/PowerShell-1) -->
+  
+<h3>Accomplishments:</h3>
+
+- <b>TryHackMe</b>
+  - [**TryHackMe Security Engineer Certificate**](https://tryhackme.com/certificate/THM-LRAPAKTJWS)
+  - [**TryHackMe DevSecOps Certificate**](https://tryhackme.com/certificate/THM-V2OGMXQ3ST)
+- <b>Google</b>
+  - [**Google Cloud Security Command Center (SCC) Fundamentals Badge**](https://www.skills.google/public_profiles/d82daff5-39e1-4d97-b30d-69895d8ca9ad/badges/16361629?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
+- <b>AttackIQ</b>
+  - [**Foundations of Operationalizing MITRE ATT&CK v13 Badge**](https://www.credly.com/badges/2d82c453-02cb-4841-a2b1-7283ebcf94ae/linked_in_profile)
+- <b>Pluralsight</b>
+  - [**Log File Analysis with Python Badge**](https://app.pluralsight.com/achievements/share/847fd9b1-ee44-45bf-be5d-67d7a2e551d5)
+- <b>Microsoft</b>
+  - [**Microsoft Applied Skills: Get started with identities and access using Microsoft Entra Badge**](https://learn.microsoft.com/api/credentials/share/en-us/martinmathurine/C62E4D1CE20E9A6E?sharingId=36A65952B8F9D44)
+- <b>Udemy</b>
+  - [**Getting Started with Okta Badge**](https://www.udemy.com/certificate/UC-66d289b4-b18a-4921-a274-b8f71730a494/)
 
 <h3>LinkedIn:</h3>
   <a href="https://linkedin.com/in/martinmathurine" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/512/linkedin.png" alt="martinmathurine" width="40" height="40"/> </a>
