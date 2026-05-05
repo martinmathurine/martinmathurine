@@ -4,7 +4,10 @@
 <h3>Projects:</h3>
 
 - <b>Cyber Security Labs</b>
-  - [**Network Security Lab**](https://github.com/martinmathurine/Network-Security) | SIEM | IDS | Firewall | Router | Honeypot | DDoS | Ransomware | FIM | Wazuh | Suricata | pfSense | Cowrie
+  - [**WIP: Microsoft Security & Compliance Platform Lab**](https://github.com/martinmathurine/Microsoft-Security-Engineer) | Entra ID | Conditional Access | MFA | IAM | IGA | PIM | Intune | Endpoint Security Policies | Purview | DLP | Sensitivity Labels | Data Lifecycle Management | Insider Risk Management | eDiscovery | Communication Compliance | Audit Logs | Zero Trust Architecture
+  - [**WIP: Microsoft Sentinel & Defender XDR Lab**](https://github.com/martinmathurine/Microsoft-SOC) |  Sentinel | Defender XDR | Log Analytics | KQL | Detection Engineering | IR | Threat Hunting | SOAR | Logic Apps | Alert Triage | Security Monitoring
+  - [**WIP: Vulnerability Management Programme**](https://github.com/martinmathurine/Vulnerability-Management-Programme) | Qualys VMDR | Vulnerability Scanning | Asset Inventory | Risk Prioritisation | CVSS | EPSS | Patch Management | Remediation Workflows | SLA Management | MTTR | Vulnerability Reporting | Risk Assessment | Cyber Essentials Plus
+  - [**WIP: Network Security Lab**](https://github.com/martinmathurine/Network-Security) | SIEM | IDS | Firewall | Router | Honeypot | DDoS | Ransomware | FIM | Wazuh | Suricata | pfSense | Cowrie
   - [**Vulnerability Management Lab**](https://github.com/martinmathurine/Security-Audit) | Nessus Essentials | Internal Security Audit | Full Life Cycle | Technical Reporting
   - [**Website Security Lab**](https://github.com/martinmathurine/Website-Security) | VAPT | Penetration Testing | CVE | CVSS Scoring | Kali Linux | SQL Injection
   - [**Cryptography Lab**](https://github.com/martinmathurine/Cryptography-Decryption-CyberChef-Lab) | CyberChef | Decryption | Encryption
