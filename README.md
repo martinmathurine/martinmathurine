@@ -69,13 +69,13 @@
   <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/512/powershell.png" alt="PowerShell" width="40" height="40"/> </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/512/console.png" alt="Bash" width="40" height="40"/> </a>
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/512/azure-1.png" alt="Microsoft Azure" width="40" height="40"/> </a>
-  <a href="https://www.vmware.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/512/vmware.png" alt="VMware" width="40" height="40"/> </a>
-  <a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/512/mac-os.png" alt="macOS" width="40" height="40"/> </a> 
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/452/pycharm.png" alt="PyCharm" width="40" height="40"/> </a>
   <a href="https://wordpress.org" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" alt="wordpress" width="40" height="40"/> </a>
   <!--  <a href="https://www.jetbrains.com/phpstorm/" target="_blank" rel="noreferrer"> <img src="https://github.com/martinmathurine/martinmathurine/assets/42855193/3206dff3-7cec-49a8-aaf3-0960fafe21e9" alt="PHPStorm" width="40" height="40"/> </a> -->
 
   <!--  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+  <a href="https://www.vmware.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/512/vmware.png" alt="VMware" width="40" height="40"/> </a>
+  <a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/512/mac-os.png" alt="macOS" width="40" height="40"/> </a> 
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/452/pycharm.png" alt="PyCharm" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
