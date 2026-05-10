@@ -1,5 +1,9 @@
-<h1 align="center">Hi👐🏾, I'm Martin⚡</h1>
-<h2 align="center"><a href="https://www.linkedin.com/in/martinmathurine/">Cyber Security Professional | BSc Graduate</a> </h2> <!-- Change this to Cyber Security Professional in time 🤞🏽 -->
+<h1 align="center">
+  <a href="https://www.linkedin.com/in/martinmathurine/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Martin+Mathurine+👐🏾;Security+Engineer;BSc+Graduate&center=true&size=30">
+  </a>
+</h1>
+
 
 <h3>Projects:</h3>
 
