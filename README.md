@@ -1,6 +1,6 @@
 <h1 align="center">Hi👐🏾, I'm Martin⚡</h1>
 <h2 align="center"><a href="https://www.linkedin.com/in/martinmathurine/">Cyber Security Professional | BSc Graduate</a> </h2> <!-- Change this to Cyber Security Professional in time 🤞🏽 -->
-  
+
 <h3>Projects:</h3>
 
 - <b>Cyber Security Labs</b>
@@ -45,67 +45,25 @@
 
 
 <h3>LinkedIn:</h3>
-  [![martinmathurine LinkedIn](https://skillicons.dev/icons?i=,linkedin)](https://linkedin.com/in/martinmathurine)
+
+  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/martinmathurine)
 
 <h3>Skills:</h3>
-
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,azure,aws,gcp,powershell,kali,linux,github,githubactions,html,css,js,wordpress" />
+    <img src="https://skillicons.dev/icons?i=windows,azure,aws,gcp,powershell,kali,linux,github,githubactions,wordpress" />
   </a>
 
-  <a href="https://www.splunk.com/">
-    <img src="https://img.icons8.com/color/452/splunk.png" alt="Splunk" width="40"/>
-  </a>
+  <a href="https://www.qualys.com/">
+    <img src="https://github.com/user-attachments/assets/09dc9159-c635-44ac-b79c-74383b463477" alt="Qualys" width="40"/>
 
   <a href="https://www.tenable.com/products/nessus">
     <img src="https://img.icons8.com/ios/452/biohazard.png" alt="Nessus" width="40"/>
   </a>
 
-  <a href="https://www.qualys.com/">
-    <img src="https://github.com/user-attachments/assets/cb4c9341-7b53-4791-be81-bb99b6b229a" alt="Qualys" width="40"/>
-  </a>
-</p>
-
-
-<h3>Skills:</h3>
-  [![Skills](https://skillicons.dev/icons?i=windows,azure,aws,gcp,kali,linux,powershell,github,githubactions,html,css,wordpress)](https://skillicons.dev)
-
-
-<p align="left"> 
-  <a href="https://www.tenable.com/products/nessus" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios/452/biohazard.png" alt="Nessus Tenable" width="40" height="40"/> </a>
-  <a href="https://www.splunk.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/452/splunk.png" alt="Splunk" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/windows/windows-11" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/512/windows-11.png" alt="Windows 11" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/linux.png" alt="Linux" width="40" height="40"/> </a>
-  <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/kali-linux.png" alt="Kali Linux" width="40" height="40"/> </a>
-  <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/512/powershell.png" alt="PowerShell" width="40" height="40"/> </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/512/console.png" alt="Bash" width="40" height="40"/> </a>
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/512/azure-1.png" alt="Microsoft Azure" width="40" height="40"/> </a>
-  <a href="https://wordpress.org" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" alt="wordpress" width="40" height="40"/> </a>
-  
-  <a href="https://www.qualys.com/"><img src="https://github.com/user-attachments/assets/cb4c9341-7b53-4791-be81-bb99b6b229a" alt="Qualys" width="40" height="40"/></a>
-  <a href="https://www.tenable.com/products/nessus"><img src="https://img.icons8.com/ios/452/biohazard.png" alt="Nessus" width="40" height="40"/></a>
-  <a href="https://www.splunk.com/"><img src="https://img.icons8.com/color/452/splunk.png" alt="Splunk" width="40" height="40"/></a>
-
-
-  <a href="https://www.microsoft.com/en-us/windows/windows-11"><img src="https://img.icons8.com/color/512/windows-11.png" alt="Windows 11" width="40" height="40"/></a>
-  <a href="https://www.linux.org/"><img src="https://img.icons8.com/color/512/linux.png" alt="Linux" width="40" height="40"/></a>
-  <a href="https://www.kali.org/"><img src="https://img.icons8.com/color/512/kali-linux.png" alt="Kali Linux" width="40" height="40"/></a>
-  <a href="https://docs.microsoft.com/en-us/powershell/"><img src="https://img.icons8.com/fluency/512/powershell.png" alt="PowerShell" width="40" height="40"/></a>
-  <a href="https://www.gnu.org/software/bash/"><img src="https://img.icons8.com/fluency/512/console.png" alt="Bash" width="40" height="40"/></a>
-  <a href="https://azure.microsoft.com/"><img src="https://img.icons8.com/fluency/512/azure-1.png" alt="Azure" width="40" height="40"/></a>
-  <a href="https://wordpress.org"><img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" alt="WordPress" width="40" height="40"/></a>
-
-  <!--  <a href="https://www.jetbrains.com/phpstorm/" target="_blank" rel="noreferrer"> <img src="https://github.com/martinmathurine/martinmathurine/assets/42855193/3206dff3-7cec-49a8-aaf3-0960fafe21e9" alt="PHPStorm" width="40" height="40"/> </a> -->
-
-  <!--  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-  <a href="https://www.vmware.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/512/vmware.png" alt="VMware" width="40" height="40"/> </a>
-  <a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/512/mac-os.png" alt="macOS" width="40" height="40"/> </a> 
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/452/pycharm.png" alt="PyCharm" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> -->
+  <a href="https://www.splunk.com/">
+    <img src="https://img.icons8.com/color/452/splunk.png" alt="Splunk" width="40"/>
+  </a>  
 </p>
 
 <!--
