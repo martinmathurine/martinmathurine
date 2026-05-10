@@ -4,6 +4,11 @@
   </a>
 </h1>
 
+<p align="center">
+  <a href="https://linkedin.com/in/martinmathurine">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
 <h3>Projects:</h3>
 
@@ -46,11 +51,6 @@
   - [**Microsoft Applied Skills: Get started with identities and access using Microsoft Entra Badge**](https://learn.microsoft.com/api/credentials/share/en-us/martinmathurine/C62E4D1CE20E9A6E?sharingId=36A65952B8F9D44)
 - <b>Udemy</b>
   - [**Getting Started with Okta Badge**](https://www.udemy.com/certificate/UC-66d289b4-b18a-4921-a274-b8f71730a494/)
-
-
-<h3>LinkedIn:</h3>
-
-  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/martinmathurine)
 
 <h3>Skills:</h3>
 <p align="left">
