@@ -54,18 +54,18 @@
 
 <h3>Skills:</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://www.linkedin.com/in/martinmathurine/">
     <img src="https://skillicons.dev/icons?i=windows,azure,aws,gcp,powershell,kali,linux,github,githubactions,wordpress" />
   </a>
 
-  <a href="https://www.qualys.com/">
+  <a href="https://www.linkedin.com/in/martinmathurine/">
     <img src="https://github.com/user-attachments/assets/09dc9159-c635-44ac-b79c-74383b463477" alt="Qualys" width="40"/>
 
-  <a href="https://www.tenable.com/products/nessus">
-    <img src="https://img.icons8.com/ios/452/biohazard.png" alt="Nessus" width="40"/>
+  <a href="https://www.linkedin.com/in/martinmathurine/">
+    <img src="https://github.com/user-attachments/assets/1d71ea34-ebbb-4fe7-a3d0-156b0b1de4ae" alt="Nessus" width="40"/>
   </a>
 
-  <a href="https://www.splunk.com/">
+  <a href="https://www.linkedin.com/in/martinmathurine/">
     <img src="https://img.icons8.com/color/452/splunk.png" alt="Splunk" width="40"/>
   </a>  
 </p>
