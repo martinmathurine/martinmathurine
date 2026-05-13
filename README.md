@@ -72,8 +72,8 @@
 
 - PowerShell Automation 
 - KQL 
-- Security Engineer Lab
-- SOC Lab
+- Security Engineer Labs
+- SOC Labs
 
 <!--
 **martinmathurine/martinmathurine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
