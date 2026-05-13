@@ -24,10 +24,11 @@
   - [**3-Tier Cisco Meraki Campus LAN**](https://github.com/martinmathurine/LAN-3-Tier-Architecture)
 - <b>Identity & Access Management (IAM) Labs</b>
   - [**IAM SSO B2B Lab**](https://www.udemy.com/certificate/UC-66d289b4-b18a-4921-a274-b8f71730a494/) | Okta | M365 | Entra ID | SSO | Zero Trust | Federation | MFA | IAM | IAG | IAAA | PAM
-- <b>Scripting</b> 
+- <b>Scripting</b>
   - [**Windows Event Log Analyser (Final Year Project)**](https://github.com/martinmathurine/Windows-Event-Log-Analyser) | Python | Log Analysis | EVTX Log Parsing | Automation | Regex
   - [**Secure Password Manager**](https://github.com/martinmathurine/Secure-Password-Manager) | Java | IAM | Encryption | Decryption | SHA-256 Hashing | Application Security
 - <b>Data Structures & Algorithms (DSA) Study Repository</b>
+  - [**WIP: PowerShell Practice**](https://github.com/martinmathurine/PowerShell-Practice)
   - [**Python Practise**](https://github.com/martinmathurine/Python-Practice)
   - [**Java Practise**](https://github.com/martinmathurine/Java-Practice)
   - [**C++ Practise**](https://github.com/martinmathurine/CPlusPlus-Practice)
@@ -49,6 +50,7 @@
   - [**Getting Started with Okta Badge**](https://www.udemy.com/certificate/UC-66d289b4-b18a-4921-a274-b8f71730a494/)
 
 <h3>Skills:</h3>
+
 <p align="left">
   <a href="https://www.linkedin.com/in/martinmathurine/">
     <img src="https://skillicons.dev/icons?i=windows,azure,aws,gcp,powershell,kali,linux,github,githubactions,wordpress" />
@@ -66,10 +68,12 @@
   </a>  
 </p>
 
-<h3>Work in Progress: 👷🏾‍♂️⚒️</h3> 
+<h3>Work in Progress: ⚒️</h3> 
 
 - PowerShell Automation 
-- KQL
+- KQL 
+- Security Engineer Lab
+- SOC Lab
 
 <!--
 **martinmathurine/martinmathurine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
