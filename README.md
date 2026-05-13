@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<h3>Projects:</h3>
+<h3>Projects: </h3>
 
 - <b>Cyber Security Labs</b>
   - [**WIP: Microsoft Security & Compliance Platform Lab**](https://github.com/martinmathurine/Microsoft-Security-Engineer) | Entra ID | Intune | Purview | eDiscovery | Audit Logs
@@ -33,7 +33,7 @@
   - [**Java Practise**](https://github.com/martinmathurine/Java-Practice)
   - [**C++ Practise**](https://github.com/martinmathurine/CPlusPlus-Practice)
   
-<h3>Accomplishments:</h3>
+<h3>Accomplishments: ✨</h3>
 
 - <b>TryHackMe</b>
   - [**TryHackMe Security Engineer Certificate**](https://tryhackme.com/certificate/THM-LRAPAKTJWS)
@@ -71,10 +71,9 @@
 <h3>Work in Progress: ⚒️</h3> 
 
 - PowerShell Automation 
-- KQL 
 - Security Engineer Labs
-- SOC Labs
-
+- KQL x SOC Labs
+  
 <!--
 **martinmathurine/martinmathurine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
