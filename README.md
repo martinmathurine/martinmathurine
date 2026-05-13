@@ -31,10 +31,6 @@
   - [**Python Practise**](https://github.com/martinmathurine/Python-Practice)
   - [**Java Practise**](https://github.com/martinmathurine/Java-Practice)
   - [**C++ Practise**](https://github.com/martinmathurine/CPlusPlus-Practice)
-  <!--  - <b>Full Stack Web Applications (NodeJS, React, Azure, WordPress, Generative AI, LLM and Machine Learning Components)</b>
-  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/Full-Stack-Web-App-1) -->
-<!-- - <b>PowerShell</b>
-  - [PLACEHOLDER ⛈️](https://github.com/martinmathurine/PowerShell-1) -->
   
 <h3>Accomplishments:</h3>
 
@@ -69,6 +65,11 @@
     <img src="https://img.icons8.com/color/452/splunk.png" alt="Splunk" width="40"/>
   </a>  
 </p>
+
+<h3>Work in Progress: 👷🏾‍♂️⚒️</h3> 
+
+- PowerShell Automation 
+- KQL
 
 <!--
 **martinmathurine/martinmathurine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
