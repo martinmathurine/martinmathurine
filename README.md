@@ -12,23 +12,29 @@
 
 <h3>Projects: </h3>
 
-- <b>Cyber Security Labs</b>
-  - [**WIP: Microsoft Security & Compliance Platform Lab**](https://github.com/martinmathurine/Microsoft-Security-Engineer) | Entra ID | Intune | Purview | eDiscovery | Audit Logs
-  - [**WIP: Microsoft Sentinel & Defender XDR Lab**](https://github.com/martinmathurine/Microsoft-SOC) | Sentinel | Defender XDR | Log Analytics | KQL | Alert Triage
-  - [**WIP: Vulnerability Management Programme**](https://github.com/martinmathurine/Vulnerability-Management-Programme) | Qualys VMDR | CE+ | EPSS | Asset Tagging | Reporting
-  - [**WIP: Network Security Lab**](https://github.com/martinmathurine/Network-Security) | SIEM | IDS | Firewall | Router | Honeypot | DDoS | Ransomware | FIM | Wazuh | Suricata | pfSense | Cowrie
-  - [**Vulnerability Management Lab**](https://github.com/martinmathurine/Security-Audit) | Nessus Essentials | Internal Security Audit | Full Life Cycle | Technical Reporting
-  - [**Website Security Lab**](https://github.com/martinmathurine/Website-Security) | VAPT | Penetration Testing | CVE | CVSS Scoring | Kali Linux | SQL Injection
+- <b>Defensive Cyber Security Labs</b>
+  - [**WiP: Microsoft Security & Compliance Platform Lab**](https://github.com/martinmathurine/Microsoft-Security-Engineer) | Entra ID | Intune | Purview | eDiscovery | Audit Logs
+  - [**WiP: Microsoft Sentinel & Defender XDR Lab**](https://github.com/martinmathurine/Microsoft-SOC) | Sentinel | Defender XDR | Log Analytics | KQL | Alert Triage
+  - [**WiP: Vulnerability Management Programme**](https://github.com/martinmathurine/Vulnerability-Management-Programme) | Qualys VMDR | CE+ | EPSS | Asset Tagging | Reporting
+  - [**WiP: Vulnerability Management Bootcamp Lab**](https://github.com/martinmathurine/VM-Bootcamp) | Nessus Essentials | Azure | VMware | Kali Linux | Metasploitable 2 | Full Life Cycle | Technical Reporting | PowerShell Automation
+  - [**WiP: Network Security Lab**](https://github.com/martinmathurine/Network-Security) | SIEM | IDS | Firewall | Router | Honeypot | DDoS | Ransomware | FIM | Wazuh | Suricata | pfSense | Cowrie
+  - [**Network Vulnerability Management Lab**](https://github.com/martinmathurine/Security-Audit) | Nessus Essentials | Internal Security Audit | Full Life Cycle | Technical Reporting
+  - [**Web Application Vulnerability Lab**](https://github.com/martinmathurine/Website-Security) | VAPT | Penetration Testing | CVE | CVSS Scoring | Kali Linux | SQL Injection
   - [**Cryptography Lab**](https://github.com/martinmathurine/Cryptography-Decryption-CyberChef-Lab) | CyberChef | Decryption | Encryption
 - <b>Computer Networking Labs</b>
+  - [**WiP: FortiGate Firewall Configuration GNS3 Lab**](https://github.com/martinmathurine/FortiGate-Firewall)
+  - [**WiP: Cisco Firewall Configuration GNS3 Lab**](https://github.com/martinmathurine/Cisco-Firewall)
+  - [**WiP: Cisco Switch Configuration GNS3 Lab**](https://github.com/martinmathurine/Cisco-Switch)
   - [**3-Tier Cisco Meraki Campus LAN**](https://github.com/martinmathurine/LAN-3-Tier-Architecture)
 - <b>Identity & Access Management (IAM) Labs</b>
   - [**IAM SSO B2B Lab**](https://www.udemy.com/certificate/UC-66d289b4-b18a-4921-a274-b8f71730a494/) | Okta | M365 | Entra ID | SSO | Zero Trust | Federation | MFA | IAM | IAG | IAAA | PAM
-- <b>Scripting</b>
+- <b>Scripting Automation</b>
   - [**Windows Event Log Analyser (Final Year Project)**](https://github.com/martinmathurine/Windows-Event-Log-Analyser) | Python | Log Analysis | EVTX Log Parsing | Automation | Regex
   - [**Secure Password Manager**](https://github.com/martinmathurine/Secure-Password-Manager) | Java | IAM | Encryption | Decryption | SHA-256 Hashing | Application Security
 - <b>Data Structures & Algorithms (DSA) Study Repository</b>
-  - [**WIP: PowerShell Practice**](https://github.com/martinmathurine/PowerShell-Practice)
+  - [**WiP: PowerShell Practice**](https://github.com/martinmathurine/PowerShell-Practice)
+  - [**WiP: Command Prompt Practice**](https://github.com/martinmathurine/CMD-Practice)
+  - [**WiP: KQL Practice**](https://github.com/martinmathurine/KQL-Practice)
   - [**Python Practise**](https://github.com/martinmathurine/Python-Practice)
   - [**Java Practise**](https://github.com/martinmathurine/Java-Practice)
   - [**C++ Practise**](https://github.com/martinmathurine/CPlusPlus-Practice)
@@ -72,7 +78,8 @@
 
 - PowerShell Automation 
 - Security Engineer Labs
-- KQL x SOC Labs
+- SOC Labs
+- Network Security Labs
   
 <!--
 **martinmathurine/martinmathurine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
