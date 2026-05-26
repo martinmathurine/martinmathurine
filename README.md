@@ -19,12 +19,13 @@
   - [**WiP: Vulnerability Management Bootcamp Lab**](https://github.com/martinmathurine/VM-Bootcamp) | Nessus Essentials | Azure | VMware | Kali Linux | Metasploitable 2 | Full Life Cycle | Technical Reporting | PowerShell Automation
   - [**WiP: Network Security Lab**](https://github.com/martinmathurine/Network-Security) | SIEM | IDS | Firewall | Router | Honeypot | DDoS | Ransomware | FIM | Wazuh | Suricata | pfSense | Cowrie
   - [**Network Vulnerability Management Lab**](https://github.com/martinmathurine/Security-Audit) | Nessus Essentials | Internal Security Audit | Full Life Cycle | Technical Reporting
-  - [**Web Application Vulnerability Lab**](https://github.com/martinmathurine/Website-Security) | VAPT | Penetration Testing | CVE | CVSS Scoring | Kali Linux | SQL Injection
+  - [**Web Application Vulnerability Scanning Lab**](https://github.com/martinmathurine/Website-Security) | Burp Suit | VAPT | Penetration Testing | CVE | CVSS Scoring | Kali Linux | SQL Injection
   - [**Cryptography Lab**](https://github.com/martinmathurine/Cryptography-Decryption-CyberChef-Lab) | CyberChef | Decryption | Encryption
-- <b>Computer Networking Labs</b>
+- <b>Network Security Labs</b>
   - [**WiP: FortiGate Firewall Configuration GNS3 Lab**](https://github.com/martinmathurine/FortiGate-Firewall)
   - [**WiP: Cisco Firewall Configuration GNS3 Lab**](https://github.com/martinmathurine/Cisco-Firewall)
   - [**WiP: Cisco Switch Configuration GNS3 Lab**](https://github.com/martinmathurine/Cisco-Switch)
+  - [**WiP: Cisco Access Point Configuration GNS3 Lab**](https://github.com/martinmathurine/Cisco-AP)
   - [**3-Tier Cisco Meraki Campus LAN**](https://github.com/martinmathurine/LAN-3-Tier-Architecture)
 - <b>Identity & Access Management (IAM) Labs</b>
   - [**IAM SSO B2B Lab**](https://www.udemy.com/certificate/UC-66d289b4-b18a-4921-a274-b8f71730a494/) | Okta | M365 | Entra ID | SSO | Zero Trust | Federation | MFA | IAM | IAG | IAAA | PAM
