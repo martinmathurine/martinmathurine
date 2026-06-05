@@ -15,8 +15,8 @@
 - <b>Defensive Cyber Security Labs</b>
   - [**WiP: Microsoft Security & Compliance Platform Lab**](https://github.com/martinmathurine/Microsoft-Security-Engineer) | Entra ID | Intune | Purview | eDiscovery | Audit Logs
   - [**WiP: Microsoft Sentinel & Defender XDR Lab**](https://github.com/martinmathurine/Microsoft-SOC) | Sentinel | Defender XDR | Log Analytics | KQL | Alert Triage
-  - [**WiP: Vulnerability Management Programme**](https://github.com/martinmathurine/Vulnerability-Management-Programme) | Qualys VMDR | CE+ | EPSS | Asset Tagging | Reporting
   - [**WiP: Vulnerability Management Bootcamp Lab**](https://github.com/martinmathurine/VM-Bootcamp) | Nessus Essentials | Azure | VMware | Kali Linux | Metasploitable 2 | Full Life Cycle | Technical Reporting | PowerShell Automation
+  - [**WiP: Vulnerability Management Programme**](https://github.com/martinmathurine/Vulnerability-Management-Programme) | Qualys VMDR | CE+ | EPSS | Asset Tagging | Reporting
   - [**WiP: Network Security Lab**](https://github.com/martinmathurine/Network-Security) | SIEM | IDS | Firewall | Router | Honeypot | DDoS | Ransomware | FIM | Wazuh | Suricata | pfSense | Cowrie
   - [**Network Vulnerability Management Lab**](https://github.com/martinmathurine/Security-Audit) | Nessus Essentials | Internal Security Audit | Full Life Cycle | Technical Reporting
   - [**Web Application Vulnerability Scanning Lab**](https://github.com/martinmathurine/Website-Security) | Burp Suit | VAPT | Penetration Testing | CVE | CVSS Scoring | Kali Linux | SQL Injection
