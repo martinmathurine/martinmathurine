@@ -25,7 +25,7 @@
   - [**WiP: FortiGate Firewall Configuration GNS3 Lab**](https://github.com/martinmathurine/FortiGate-Firewall)
   - [**WiP: Cisco Firewall Configuration GNS3 Lab**](https://github.com/martinmathurine/Cisco-Firewall)
   - [**WiP: Cisco Switch Configuration GNS3 Lab**](https://github.com/martinmathurine/Cisco-Switch)
-  - [**WiP: Cisco Access Point Configuration GNS3 Lab**](https://github.com/martinmathurine/Cisco-AP)
+  - [**WiP: Aruba HPE Switch Configuration GNS3 Lab**](https://github.com/martinmathurine/Cisco-AP)
   - [**3-Tier Cisco Meraki Campus LAN**](https://github.com/martinmathurine/LAN-3-Tier-Architecture)
 - <b>Identity & Access Management (IAM) Labs</b>
   - [**IAM SSO B2B Lab**](https://www.udemy.com/certificate/UC-66d289b4-b18a-4921-a274-b8f71730a494/) | Okta | M365 | Entra ID | SSO | Zero Trust | Federation | MFA | IAM | IAG | IAAA | PAM
