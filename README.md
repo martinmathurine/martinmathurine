@@ -13,7 +13,7 @@
 <h3>Projects: </h3>
 
 - <b>Defensive Cyber Security Labs</b>
-  - [**WiP: Microsoft Security & Compliance Platform Lab**](https://github.com/martinmathurine/Microsoft-Security-Engineer) | Entra ID | Intune | Purview | eDiscovery | Audit Logs
+  - [**WiP: Azure Platform Security & Compliance Lab**](https://github.com/martinmathurine/Microsoft-Security-Engineer) | Entra ID | Intune | Purview | eDiscovery | Audit Logs
   - [**WiP: Microsoft Sentinel & Defender XDR Lab**](https://github.com/martinmathurine/Microsoft-SOC) | Sentinel | Defender XDR | Log Analytics | KQL | Alert Triage
   - [**WiP: Vulnerability Management Bootcamp Lab**](https://github.com/martinmathurine/VM-Bootcamp) | Nessus Essentials | Azure | VMware | Kali Linux | Metasploitable 2 | Full Life Cycle | Technical Reporting | PowerShell Automation
   - [**WiP: Vulnerability Management Programme**](https://github.com/martinmathurine/Vulnerability-Management-Programme) | Qualys VMDR | CE+ | EPSS | Asset Tagging | Reporting
