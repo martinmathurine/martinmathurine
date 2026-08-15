@@ -40,7 +40,7 @@
   - [**Java Practise**](https://github.com/martinmathurine/Java-Practice)
   - [**C++ Practise**](https://github.com/martinmathurine/CPlusPlus-Practice)
   
-<h3>Accomplishments: ✨</h3>
+<h3>Accomplishments:</h3>
 
 - <b>TryHackMe</b>
   - [**TryHackMe Security Engineer Certificate**](https://tryhackme.com/certificate/THM-LRAPAKTJWS)
